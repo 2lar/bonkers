@@ -1,0 +1,14 @@
+# testing double append
+c bread
+g
+g
+r
+r
+l
+l
+s
+s
+e 0
+d 0
+a a
+q

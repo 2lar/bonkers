@@ -1,0 +1,13 @@
+00:00:00:00:01|vision|Vision is gone
+00:00:00:00:02|ortho|need a surgery
+00:00:00:00:02|Ortho|need a surgery
+00:00:00:00:02|OrTHo|need a surgery
+00:00:00:00:03|dental|check-up
+00:00:00:00:10|cArdiO|heart-attack found
+00:00:00:10:00|cardIo|heart-attack found 2
+00:00:00:10:00|cardio|heart-attack found 2
+00:00:10:10:00|eye|loose eyeball on the loose
+01:00:00:10:20|Cardio|Cardio attack
+00:00:02:10:00|Cardio|cardio attack
+00:00:06:10:00|Cardio|myocardic arythmia
+00:10:00:10:00|Cardio|myocardic arythmia

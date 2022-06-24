@@ -1,0 +1,14 @@
+# Random things in this testing
+c water
+r
+k house
+r
+p
+k storm
+c pipes
+r
+s
+p
+d 6
+p
+q

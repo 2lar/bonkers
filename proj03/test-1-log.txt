@@ -1,0 +1,11 @@
+00:00:00:00:01|Water|Water was not clean!
+00:00:00:00:02|Pipes|PIPES MADE OF BAD MATERIAL
+00:00:00:00:02|Water| COLored/water in coMING out of SINK#!!
+00:00:00:10:10|sewer|Sewers Smelling a lot MOre (than usual) D:
+00:00:00:10:15|UNKNOWN-ERROR=101|something_is_broken
+00:10:00:10:15|rain|strong rains. and . hailing
+00:11:00:10:15|storm|HELLO !!!!!STORM BLEW AWAY MY HOUSE-+-=!?1/1 HELLO
+01:10:00:10:15|pipes|Pipes (Throughout the city) are sticking out of the ground.
+01:15:00:10:37|Water|Water damage in the basement of house in central
+01:15:69:10:37|Storm|Broken glass, need insurance help. Bad
+01:19:00:10:37|UNKNOWN-ERROR=101|MISSING AND LOST DOG!!!!! NAME IS:MARCO?!@# HELP

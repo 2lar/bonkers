@@ -1,0 +1,11 @@
+01:15:00:10:37|bread|bread = soggy + bland
+01:15:00:10:30|tea|!!SO DILUTED. Unbelievable (terrible)
+01:15:00:10:36|employees|"NOt at all nice" names from tags: a, b, c, d, e
+01:15:00:10:35|service|Slow to bring out food and drinks
+01:15:00:10:31|employees|Slow to bring out food and drinks
+01:15:00:10:31|service|Slow to bring out food and drinks
+01:15:00:10:33|service|why is the service so slow !! :(
+01:15:00:10:34|bread|Bread is stale/very bland
+01:15:00:10:38|bread|bread is too thick. CHocking hazard
+01:15:00:10:35|tea|so hot
+01:15:00:10:29|location|Where is this restuarant. //confused;unknown;hungry

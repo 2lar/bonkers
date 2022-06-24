@@ -1,0 +1,650 @@
+this is sdist: inf 0
+this is sdist2: 0.00 0
+CHOSEN CIDX: 0
+THIS IS CIDX and J: 0 1 24.00
+THIS IS CIDX and J: 0 2 31.05
+THIS IS CIDX and J: 0 3 75.45
+THIS IS CIDX and J: 0 4 59.00
+THIS IS CIDX and J: 0 5 inf
+THIS IS CIDX and J: 0 6 31.58
+THIS IS CIDX and J: 0 7 39.12
+THIS IS CIDX and J: 0 8 59.41
+THIS IS CIDX and J: 0 9 85.07
+THIS IS CIDX and J: 0 10 35.44
+THIS IS CIDX and J: 0 11 39.00
+THIS IS CIDX and J: 0 12 17.12
+THIS IS CIDX and J: 0 13 49.82
+THIS IS CIDX and J: 0 14 40.50
+THIS IS CIDX and J: 0 15 12.73
+THIS IS CIDX and J: 0 16 32.28
+THIS IS CIDX and J: 0 17 inf
+THIS IS CIDX and J: 0 18 90.82
+THIS IS CIDX and J: 0 19 inf
+THIS IS CIDX and J: 0 20 9.43
+THIS IS CIDX and J: 0 21 inf
+THIS IS CIDX and J: 0 22 inf
+THIS IS CIDX and J: 0 23 92.31
+THIS IS CIDX and J: 0 24 55.76
+THIS IS CIDX and J: 0 25 59.08
+THIS IS CIDX and J: 0 26 32.56
+THIS IS CIDX and J: 0 27 32.76
+THIS IS CIDX and J: 0 28 39.00
+THIS IS CIDX and J: 0 29 39.20
+this is sdist: inf 1
+this is sdist2: 24.00 1
+this is sdist: 24.00 12
+this is sdist2: 17.12 12
+this is sdist: 17.12 15
+this is sdist2: 12.73 15
+this is sdist: 12.73 20
+this is sdist2: 9.43 20
+CHOSEN CIDX: 20
+THIS IS CIDX and J: 20 1 16.76
+THIS IS CIDX and J: 20 2 40.16
+THIS IS CIDX and J: 20 3 84.20
+THIS IS CIDX and J: 20 4 64.50
+THIS IS CIDX and J: 20 5 inf
+THIS IS CIDX and J: 20 6 23.02
+THIS IS CIDX and J: 20 7 36.07
+THIS IS CIDX and J: 20 8 56.57
+THIS IS CIDX and J: 20 9 92.48
+THIS IS CIDX and J: 20 10 39.05
+THIS IS CIDX and J: 20 11 41.59
+THIS IS CIDX and J: 20 12 24.17
+THIS IS CIDX and J: 20 13 43.32
+THIS IS CIDX and J: 20 14 49.93
+THIS IS CIDX and J: 20 15 22.02
+THIS IS CIDX and J: 20 16 36.01
+THIS IS CIDX and J: 20 17 inf
+THIS IS CIDX and J: 20 18 99.13
+THIS IS CIDX and J: 20 19 inf
+THIS IS CIDX and J: 20 21 inf
+THIS IS CIDX and J: 20 22 inf
+THIS IS CIDX and J: 20 23 100.18
+THIS IS CIDX and J: 20 24 65.19
+THIS IS CIDX and J: 20 25 64.94
+THIS IS CIDX and J: 20 26 41.48
+THIS IS CIDX and J: 20 27 41.40
+THIS IS CIDX and J: 20 28 44.72
+THIS IS CIDX and J: 20 29 47.85
+this is sdist: inf 1
+this is sdist2: 16.76 1
+this is sdist: 16.76 15
+this is sdist2: 12.73 15
+CHOSEN CIDX: 15
+THIS IS CIDX and J: 15 1 34.21
+THIS IS CIDX and J: 15 2 21.02
+THIS IS CIDX and J: 15 3 62.97
+THIS IS CIDX and J: 15 4 50.80
+THIS IS CIDX and J: 15 5 inf
+THIS IS CIDX and J: 15 6 42.72
+THIS IS CIDX and J: 15 7 43.68
+THIS IS CIDX and J: 15 8 62.65
+THIS IS CIDX and J: 15 9 73.98
+THIS IS CIDX and J: 15 10 31.40
+THIS IS CIDX and J: 15 11 36.12
+THIS IS CIDX and J: 15 12 10.63
+THIS IS CIDX and J: 15 13 58.00
+THIS IS CIDX and J: 15 14 28.18
+THIS IS CIDX and J: 15 16 28.43
+THIS IS CIDX and J: 15 17 inf
+THIS IS CIDX and J: 15 18 78.72
+THIS IS CIDX and J: 15 19 inf
+THIS IS CIDX and J: 15 21 inf
+THIS IS CIDX and J: 15 22 inf
+THIS IS CIDX and J: 15 23 80.65
+THIS IS CIDX and J: 15 24 43.42
+THIS IS CIDX and J: 15 25 50.36
+THIS IS CIDX and J: 15 26 23.19
+THIS IS CIDX and J: 15 27 20.62
+THIS IS CIDX and J: 15 28 31.32
+THIS IS CIDX and J: 15 29 30.41
+this is sdist: inf 1
+this is sdist2: 16.76 1
+this is sdist: 16.76 12
+this is sdist2: 10.63 12
+CHOSEN CIDX: 12
+THIS IS CIDX and J: 12 1 31.06
+THIS IS CIDX and J: 12 2 29.41
+THIS IS CIDX and J: 12 3 60.88
+THIS IS CIDX and J: 12 4 42.05
+THIS IS CIDX and J: 12 5 inf
+THIS IS CIDX and J: 12 6 40.22
+THIS IS CIDX and J: 12 7 35.23
+THIS IS CIDX and J: 12 8 53.14
+THIS IS CIDX and J: 12 9 68.35
+THIS IS CIDX and J: 12 10 20.81
+THIS IS CIDX and J: 12 11 25.50
+THIS IS CIDX and J: 12 13 51.62
+THIS IS CIDX and J: 12 14 32.39
+THIS IS CIDX and J: 12 16 17.80
+THIS IS CIDX and J: 12 17 inf
+THIS IS CIDX and J: 12 18 75.17
+THIS IS CIDX and J: 12 19 inf
+THIS IS CIDX and J: 12 21 inf
+THIS IS CIDX and J: 12 22 inf
+THIS IS CIDX and J: 12 23 76.03
+THIS IS CIDX and J: 12 24 46.84
+THIS IS CIDX and J: 12 25 42.01
+THIS IS CIDX and J: 12 26 31.95
+THIS IS CIDX and J: 12 27 18.60
+THIS IS CIDX and J: 12 28 22.09
+THIS IS CIDX and J: 12 29 39.22
+this is sdist: inf 1
+this is sdist2: 16.76 1
+CHOSEN CIDX: 1
+THIS IS CIDX and J: 1 2 54.59
+THIS IS CIDX and J: 1 3 91.29
+THIS IS CIDX and J: 1 4 63.69
+THIS IS CIDX and J: 1 5 inf
+THIS IS CIDX and J: 1 6 9.22
+THIS IS CIDX and J: 1 7 22.85
+THIS IS CIDX and J: 1 8 42.44
+THIS IS CIDX and J: 1 9 95.19
+THIS IS CIDX and J: 1 10 36.77
+THIS IS CIDX and J: 1 11 37.11
+THIS IS CIDX and J: 1 13 26.57
+THIS IS CIDX and J: 1 14 62.03
+THIS IS CIDX and J: 1 16 34.44
+THIS IS CIDX and J: 1 17 inf
+THIS IS CIDX and J: 1 18 104.35
+THIS IS CIDX and J: 1 19 inf
+THIS IS CIDX and J: 1 21 inf
+THIS IS CIDX and J: 1 22 inf
+THIS IS CIDX and J: 1 23 104.04
+THIS IS CIDX and J: 1 24 77.08
+THIS IS CIDX and J: 1 25 64.88
+THIS IS CIDX and J: 1 26 56.32
+THIS IS CIDX and J: 1 27 49.65
+THIS IS CIDX and J: 1 28 45.79
+THIS IS CIDX and J: 1 29 63.13
+this is sdist: inf 2
+this is sdist2: 21.02 2
+this is sdist: 21.02 6
+this is sdist2: 9.22 6
+CHOSEN CIDX: 6
+THIS IS CIDX and J: 6 2 62.59
+THIS IS CIDX and J: 6 3 100.50
+THIS IS CIDX and J: 6 4 72.01
+THIS IS CIDX and J: 6 5 inf
+THIS IS CIDX and J: 6 7 27.07
+THIS IS CIDX and J: 6 8 44.38
+THIS IS CIDX and J: 6 9 104.01
+THIS IS CIDX and J: 6 10 45.18
+THIS IS CIDX and J: 6 11 44.94
+THIS IS CIDX and J: 6 13 23.43
+THIS IS CIDX and J: 6 14 70.77
+THIS IS CIDX and J: 6 16 43.05
+THIS IS CIDX and J: 6 17 inf
+THIS IS CIDX and J: 6 18 113.45
+THIS IS CIDX and J: 6 19 inf
+THIS IS CIDX and J: 6 21 inf
+THIS IS CIDX and J: 6 22 inf
+THIS IS CIDX and J: 6 23 113.00
+THIS IS CIDX and J: 6 24 85.91
+THIS IS CIDX and J: 6 25 73.36
+THIS IS CIDX and J: 6 26 64.13
+THIS IS CIDX and J: 6 27 58.82
+THIS IS CIDX and J: 6 28 54.64
+THIS IS CIDX and J: 6 29 70.71
+this is sdist: inf 2
+this is sdist2: 21.02 2
+this is sdist: 21.02 10
+this is sdist2: 20.81 10
+this is sdist: 20.81 16
+this is sdist2: 17.80 16
+CHOSEN CIDX: 16
+THIS IS CIDX and J: 16 2 45.28
+THIS IS CIDX and J: 16 3 60.54
+THIS IS CIDX and J: 16 4 29.41
+THIS IS CIDX and J: 16 5 inf
+THIS IS CIDX and J: 16 7 26.00
+THIS IS CIDX and J: 16 8 39.20
+THIS IS CIDX and J: 16 9 61.03
+THIS IS CIDX and J: 16 10 3.16
+THIS IS CIDX and J: 16 11 7.81
+THIS IS CIDX and J: 16 13 45.65
+THIS IS CIDX and J: 16 14 43.93
+THIS IS CIDX and J: 16 17 inf
+THIS IS CIDX and J: 16 18 71.45
+THIS IS CIDX and J: 16 19 inf
+THIS IS CIDX and J: 16 21 inf
+THIS IS CIDX and J: 16 22 inf
+THIS IS CIDX and J: 16 23 70.29
+THIS IS CIDX and J: 16 24 56.01
+THIS IS CIDX and J: 16 25 30.46
+THIS IS CIDX and J: 16 26 48.02
+THIS IS CIDX and J: 16 27 26.17
+THIS IS CIDX and J: 16 28 12.04
+THIS IS CIDX and J: 16 29 55.07
+this is sdist: inf 2
+this is sdist2: 21.02 2
+this is sdist: 21.02 10
+this is sdist2: 3.16 10
+CHOSEN CIDX: 10
+THIS IS CIDX and J: 10 2 47.71
+THIS IS CIDX and J: 10 3 59.94
+THIS IS CIDX and J: 10 4 26.93
+THIS IS CIDX and J: 10 5 inf
+THIS IS CIDX and J: 10 7 26.42
+THIS IS CIDX and J: 10 8 38.01
+THIS IS CIDX and J: 10 9 59.20
+THIS IS CIDX and J: 10 11 5.39
+THIS IS CIDX and J: 10 13 46.32
+THIS IS CIDX and J: 10 14 45.61
+THIS IS CIDX and J: 10 17 inf
+THIS IS CIDX and J: 10 18 70.18
+THIS IS CIDX and J: 10 19 inf
+THIS IS CIDX and J: 10 21 inf
+THIS IS CIDX and J: 10 22 inf
+THIS IS CIDX and J: 10 23 68.68
+THIS IS CIDX and J: 10 24 57.14
+THIS IS CIDX and J: 10 25 28.18
+THIS IS CIDX and J: 10 26 50.48
+THIS IS CIDX and J: 10 27 27.66
+THIS IS CIDX and J: 10 28 11.18
+THIS IS CIDX and J: 10 29 57.45
+this is sdist: inf 2
+this is sdist2: 21.02 2
+this is sdist: 21.02 11
+this is sdist2: 5.39 11
+CHOSEN CIDX: 11
+THIS IS CIDX and J: 11 2 53.00
+THIS IS CIDX and J: 11 3 63.56
+THIS IS CIDX and J: 11 4 27.46
+THIS IS CIDX and J: 11 5 44.78
+THIS IS CIDX and J: 11 7 23.43
+THIS IS CIDX and J: 11 8 33.02
+THIS IS CIDX and J: 11 9 60.88
+THIS IS CIDX and J: 11 13 43.42
+THIS IS CIDX and J: 11 14 50.96
+THIS IS CIDX and J: 11 17 41.77
+THIS IS CIDX and J: 11 18 72.80
+THIS IS CIDX and J: 11 19 20.59
+THIS IS CIDX and J: 11 21 26.25
+THIS IS CIDX and J: 11 22 45.34
+THIS IS CIDX and J: 11 23 70.72
+THIS IS CIDX and J: 11 24 62.29
+THIS IS CIDX and J: 11 25 29.21
+THIS IS CIDX and J: 11 26 55.76
+THIS IS CIDX and J: 11 27 32.98
+THIS IS CIDX and J: 11 28 15.30
+THIS IS CIDX and J: 11 29 62.77
+this is sdist: inf 2
+this is sdist2: 21.02 2
+this is sdist: 21.02 19
+this is sdist2: 20.59 19
+this is sdist: 20.59 27
+this is sdist2: 18.60 27
+this is sdist: 18.60 28
+this is sdist2: 11.18 28
+CHOSEN CIDX: 28
+THIS IS CIDX and J: 28 2 43.14
+THIS IS CIDX and J: 28 3 48.76
+THIS IS CIDX and J: 28 4 20.00
+THIS IS CIDX and J: 28 5 50.33
+THIS IS CIDX and J: 28 7 37.59
+THIS IS CIDX and J: 28 8 48.17
+THIS IS CIDX and J: 28 9 49.40
+THIS IS CIDX and J: 28 13 57.45
+THIS IS CIDX and J: 28 14 38.01
+THIS IS CIDX and J: 28 17 44.42
+THIS IS CIDX and J: 28 18 59.41
+THIS IS CIDX and J: 28 19 33.73
+THIS IS CIDX and J: 28 21 36.24
+THIS IS CIDX and J: 28 22 54.64
+THIS IS CIDX and J: 28 23 58.41
+THIS IS CIDX and J: 28 24 47.85
+THIS IS CIDX and J: 28 25 20.22
+THIS IS CIDX and J: 28 26 45.97
+THIS IS CIDX and J: 28 27 20.25
+THIS IS CIDX and J: 28 29 52.40
+this is sdist: inf 2
+this is sdist2: 21.02 2
+this is sdist: 21.02 4
+this is sdist2: 20.00 4
+this is sdist: 20.00 27
+this is sdist2: 18.60 27
+CHOSEN CIDX: 27
+THIS IS CIDX and J: 27 2 23.85
+THIS IS CIDX and J: 27 3 42.80
+THIS IS CIDX and J: 27 4 35.36
+THIS IS CIDX and J: 27 5 inf
+THIS IS CIDX and J: 27 7 50.49
+THIS IS CIDX and J: 27 8 65.38
+THIS IS CIDX and J: 27 9 53.76
+THIS IS CIDX and J: 27 13 68.68
+THIS IS CIDX and J: 27 14 18.03
+THIS IS CIDX and J: 27 17 inf
+THIS IS CIDX and J: 27 18 58.14
+THIS IS CIDX and J: 27 19 inf
+THIS IS CIDX and J: 27 21 inf
+THIS IS CIDX and J: 27 22 inf
+THIS IS CIDX and J: 27 23 60.08
+THIS IS CIDX and J: 27 24 30.07
+THIS IS CIDX and J: 27 25 34.01
+THIS IS CIDX and J: 27 26 26.63
+THIS IS CIDX and J: 27 29 32.56
+this is sdist: inf 2
+this is sdist2: 21.02 2
+this is sdist: 21.02 4
+this is sdist2: 20.00 4
+this is sdist: 20.00 14
+this is sdist2: 18.03 14
+CHOSEN CIDX: 14
+THIS IS CIDX and J: 14 2 14.56
+THIS IS CIDX and J: 14 3 41.00
+THIS IS CIDX and J: 14 4 50.25
+THIS IS CIDX and J: 14 5 inf
+THIS IS CIDX and J: 14 7 67.01
+THIS IS CIDX and J: 14 8 83.02
+THIS IS CIDX and J: 14 9 59.54
+THIS IS CIDX and J: 14 13 84.01
+THIS IS CIDX and J: 14 17 inf
+THIS IS CIDX and J: 14 18 58.69
+THIS IS CIDX and J: 14 19 inf
+THIS IS CIDX and J: 14 21 inf
+THIS IS CIDX and J: 14 22 inf
+THIS IS CIDX and J: 14 23 63.03
+THIS IS CIDX and J: 14 24 15.26
+THIS IS CIDX and J: 14 25 48.27
+THIS IS CIDX and J: 14 26 16.12
+THIS IS CIDX and J: 14 29 18.68
+this is sdist: inf 2
+this is sdist2: 14.56 2
+CHOSEN CIDX: 2
+THIS IS CIDX and J: 2 3 55.54
+THIS IS CIDX and J: 2 4 59.17
+THIS IS CIDX and J: 2 5 inf
+THIS IS CIDX and J: 2 7 64.33
+THIS IS CIDX and J: 2 8 82.54
+THIS IS CIDX and J: 2 9 73.11
+THIS IS CIDX and J: 2 13 79.01
+THIS IS CIDX and J: 2 17 inf
+THIS IS CIDX and J: 2 18 73.16
+THIS IS CIDX and J: 2 19 inf
+THIS IS CIDX and J: 2 21 inf
+THIS IS CIDX and J: 2 22 inf
+THIS IS CIDX and J: 2 23 77.23
+THIS IS CIDX and J: 2 24 27.80
+THIS IS CIDX and J: 2 25 57.71
+THIS IS CIDX and J: 2 26 2.83
+THIS IS CIDX and J: 2 29 9.85
+this is sdist: inf 3
+this is sdist2: 41.00 3
+this is sdist: 41.00 4
+this is sdist2: 20.00 4
+this is sdist: 20.00 24
+this is sdist2: 15.26 24
+this is sdist: 15.26 26
+this is sdist2: 2.83 26
+CHOSEN CIDX: 26
+THIS IS CIDX and J: 26 3 57.07
+THIS IS CIDX and J: 26 4 61.91
+THIS IS CIDX and J: 26 5 inf
+THIS IS CIDX and J: 26 7 66.71
+THIS IS CIDX and J: 26 8 85.09
+THIS IS CIDX and J: 26 9 75.24
+THIS IS CIDX and J: 26 13 81.06
+THIS IS CIDX and J: 26 17 inf
+THIS IS CIDX and J: 26 18 74.81
+THIS IS CIDX and J: 26 19 inf
+THIS IS CIDX and J: 26 21 inf
+THIS IS CIDX and J: 26 22 inf
+THIS IS CIDX and J: 26 23 79.10
+THIS IS CIDX and J: 26 24 28.30
+THIS IS CIDX and J: 26 25 60.42
+THIS IS CIDX and J: 26 29 7.28
+this is sdist: inf 3
+this is sdist2: 41.00 3
+this is sdist: 41.00 4
+this is sdist2: 20.00 4
+this is sdist: 20.00 24
+this is sdist2: 15.26 24
+this is sdist: 15.26 29
+this is sdist2: 7.28 29
+CHOSEN CIDX: 29
+THIS IS CIDX and J: 29 3 58.14
+THIS IS CIDX and J: 29 4 67.42
+THIS IS CIDX and J: 29 5 inf
+THIS IS CIDX and J: 29 7 73.98
+THIS IS CIDX and J: 29 8 92.36
+THIS IS CIDX and J: 29 9 78.09
+THIS IS CIDX and J: 29 13 88.14
+THIS IS CIDX and J: 29 17 inf
+THIS IS CIDX and J: 29 18 76.11
+THIS IS CIDX and J: 29 19 inf
+THIS IS CIDX and J: 29 21 inf
+THIS IS CIDX and J: 29 22 inf
+THIS IS CIDX and J: 29 23 81.06
+THIS IS CIDX and J: 29 24 27.20
+THIS IS CIDX and J: 29 25 65.73
+this is sdist: inf 3
+this is sdist2: 41.00 3
+this is sdist: 41.00 4
+this is sdist2: 20.00 4
+this is sdist: 20.00 24
+this is sdist2: 15.26 24
+CHOSEN CIDX: 24
+THIS IS CIDX and J: 24 3 32.25
+THIS IS CIDX and J: 24 4 55.23
+THIS IS CIDX and J: 24 5 inf
+THIS IS CIDX and J: 24 7 80.50
+THIS IS CIDX and J: 24 8 95.13
+THIS IS CIDX and J: 24 9 55.15
+THIS IS CIDX and J: 24 13 98.27
+THIS IS CIDX and J: 24 17 inf
+THIS IS CIDX and J: 24 18 50.16
+THIS IS CIDX and J: 24 19 inf
+THIS IS CIDX and J: 24 21 inf
+THIS IS CIDX and J: 24 22 inf
+THIS IS CIDX and J: 24 23 56.09
+THIS IS CIDX and J: 24 25 52.70
+this is sdist: inf 3
+this is sdist2: 32.25 3
+this is sdist: 32.25 4
+this is sdist2: 20.00 4
+CHOSEN CIDX: 4
+THIS IS CIDX and J: 4 3 43.10
+THIS IS CIDX and J: 4 5 37.59
+THIS IS CIDX and J: 4 7 50.33
+THIS IS CIDX and J: 4 8 53.67
+THIS IS CIDX and J: 4 9 34.06
+THIS IS CIDX and J: 4 13 70.01
+THIS IS CIDX and J: 4 17 29.21
+THIS IS CIDX and J: 4 18 47.85
+THIS IS CIDX and J: 4 19 35.47
+THIS IS CIDX and J: 4 21 32.14
+THIS IS CIDX and J: 4 22 46.32
+THIS IS CIDX and J: 4 23 44.41
+THIS IS CIDX and J: 4 25 3.00
+this is sdist: inf 3
+this is sdist2: 32.25 3
+this is sdist: 32.25 7
+this is sdist2: 22.85 7
+this is sdist: 22.85 19
+this is sdist2: 20.59 19
+this is sdist: 20.59 25
+this is sdist2: 3.00 25
+CHOSEN CIDX: 25
+THIS IS CIDX and J: 25 3 40.11
+THIS IS CIDX and J: 25 5 inf
+THIS IS CIDX and J: 25 7 52.35
+THIS IS CIDX and J: 25 8 56.36
+THIS IS CIDX and J: 25 9 31.83
+THIS IS CIDX and J: 25 13 72.14
+THIS IS CIDX and J: 25 17 inf
+THIS IS CIDX and J: 25 18 45.18
+THIS IS CIDX and J: 25 19 inf
+THIS IS CIDX and J: 25 21 inf
+THIS IS CIDX and J: 25 22 inf
+THIS IS CIDX and J: 25 23 42.01
+this is sdist: inf 3
+this is sdist2: 32.25 3
+this is sdist: 32.25 7
+this is sdist2: 22.85 7
+this is sdist: 22.85 19
+this is sdist2: 20.59 19
+CHOSEN CIDX: 19
+THIS IS CIDX and J: 19 3 inf
+THIS IS CIDX and J: 19 5 31.00
+THIS IS CIDX and J: 19 7 inf
+THIS IS CIDX and J: 19 8 inf
+THIS IS CIDX and J: 19 9 inf
+THIS IS CIDX and J: 19 13 inf
+THIS IS CIDX and J: 19 17 32.57
+THIS IS CIDX and J: 19 18 inf
+THIS IS CIDX and J: 19 21 10.05
+THIS IS CIDX and J: 19 22 26.83
+THIS IS CIDX and J: 19 23 inf
+this is sdist: inf 3
+this is sdist2: 32.25 3
+this is sdist: 32.25 5
+this is sdist2: 31.00 5
+this is sdist: 31.00 7
+this is sdist2: 22.85 7
+this is sdist: 22.85 21
+this is sdist2: 10.05 21
+CHOSEN CIDX: 21
+THIS IS CIDX and J: 21 3 inf
+THIS IS CIDX and J: 21 5 21.02
+THIS IS CIDX and J: 21 7 inf
+THIS IS CIDX and J: 21 8 inf
+THIS IS CIDX and J: 21 9 inf
+THIS IS CIDX and J: 21 13 inf
+THIS IS CIDX and J: 21 17 22.85
+THIS IS CIDX and J: 21 18 inf
+THIS IS CIDX and J: 21 22 19.10
+THIS IS CIDX and J: 21 23 inf
+this is sdist: inf 3
+this is sdist2: 32.25 3
+this is sdist: 32.25 5
+this is sdist2: 21.02 5
+this is sdist: 21.02 22
+this is sdist2: 19.10 22
+CHOSEN CIDX: 22
+THIS IS CIDX and J: 22 3 inf
+THIS IS CIDX and J: 22 5 13.89
+THIS IS CIDX and J: 22 7 inf
+THIS IS CIDX and J: 22 8 inf
+THIS IS CIDX and J: 22 9 inf
+THIS IS CIDX and J: 22 13 inf
+THIS IS CIDX and J: 22 17 23.09
+THIS IS CIDX and J: 22 18 inf
+THIS IS CIDX and J: 22 23 inf
+this is sdist: inf 3
+this is sdist2: 32.25 3
+this is sdist: 32.25 5
+this is sdist2: 13.89 5
+CHOSEN CIDX: 5
+THIS IS CIDX and J: 5 3 inf
+THIS IS CIDX and J: 5 7 inf
+THIS IS CIDX and J: 5 8 inf
+THIS IS CIDX and J: 5 9 inf
+THIS IS CIDX and J: 5 13 inf
+THIS IS CIDX and J: 5 17 10.00
+THIS IS CIDX and J: 5 18 inf
+THIS IS CIDX and J: 5 23 inf
+this is sdist: inf 3
+this is sdist2: 32.25 3
+this is sdist: 32.25 7
+this is sdist2: 22.85 7
+this is sdist: 22.85 17
+this is sdist2: 10.00 17
+CHOSEN CIDX: 17
+THIS IS CIDX and J: 17 3 inf
+THIS IS CIDX and J: 17 7 inf
+THIS IS CIDX and J: 17 8 inf
+THIS IS CIDX and J: 17 9 inf
+THIS IS CIDX and J: 17 13 inf
+THIS IS CIDX and J: 17 18 inf
+THIS IS CIDX and J: 17 23 inf
+this is sdist: inf 3
+this is sdist2: 32.25 3
+this is sdist: 32.25 7
+this is sdist2: 22.85 7
+CHOSEN CIDX: 7
+THIS IS CIDX and J: 7 3 86.35
+THIS IS CIDX and J: 7 8 20.52
+THIS IS CIDX and J: 7 9 84.15
+THIS IS CIDX and J: 7 13 20.00
+THIS IS CIDX and J: 7 18 96.21
+THIS IS CIDX and J: 7 23 94.11
+this is sdist: inf 3
+this is sdist2: 32.25 3
+this is sdist: 32.25 8
+this is sdist2: 20.52 8
+this is sdist: 20.52 13
+this is sdist2: 20.00 13
+CHOSEN CIDX: 13
+THIS IS CIDX and J: 13 3 106.17
+THIS IS CIDX and J: 13 8 26.02
+THIS IS CIDX and J: 13 9 103.97
+THIS IS CIDX and J: 13 18 116.21
+THIS IS CIDX and J: 13 23 114.02
+this is sdist: inf 3
+this is sdist2: 32.25 3
+this is sdist: 32.25 8
+this is sdist2: 20.52 8
+CHOSEN CIDX: 8
+THIS IS CIDX and J: 8 3 94.92
+THIS IS CIDX and J: 8 9 87.13
+THIS IS CIDX and J: 8 18 101.52
+THIS IS CIDX and J: 8 23 97.75
+this is sdist: inf 3
+this is sdist2: 32.25 3
+this is sdist: 32.25 9
+this is sdist2: 31.83 9
+CHOSEN CIDX: 9
+THIS IS CIDX and J: 9 3 25.50
+THIS IS CIDX and J: 9 18 17.03
+THIS IS CIDX and J: 9 23 10.77
+this is sdist: inf 3
+this is sdist2: 25.50 3
+this is sdist: 25.50 18
+this is sdist2: 17.03 18
+this is sdist: 17.03 23
+this is sdist2: 10.77 23
+CHOSEN CIDX: 23
+THIS IS CIDX and J: 23 3 24.04
+THIS IS CIDX and J: 23 18 8.60
+this is sdist: inf 3
+this is sdist2: 24.04 3
+this is sdist: 24.04 18
+this is sdist2: 8.60 18
+CHOSEN CIDX: 18
+THIS IS CIDX and J: 18 3 18.00
+this is sdist: inf 3
+this is sdist2: 18.00 3
+CHOSEN CIDX: 3
+402.07
+-1 0
+20 1
+14 2
+18 3
+28 4
+22 5
+1 6
+1 7
+7 8
+25 9
+16 10
+10 11
+15 12
+7 13
+27 14
+0 15
+12 16
+5 17
+23 18
+11 19
+0 20
+19 21
+21 22
+9 23
+14 24
+4 25
+2 26
+12 27
+10 28
+26 29

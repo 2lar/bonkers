@@ -1,0 +1,4687 @@
+verticescidx: 0 0.00 -1 1
+[0, 1] [1, 0] [2, 0] [3, 0] [4, 0] [5, 0] [6, 0] [7, 0] [8, 0] [9, 0] [10, 0] [11, 0] [12, 0] [13, 0] [14, 0] [15, 0] [16, 0] [17, 0] [18, 0] [19, 0] [20, 0] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 0 1
+CHECK: 24.00
+SDIST: inf
+i dedge: 1 - 24.00 pidx: 0 0
+0 -1 -1
+vertices: 1 24.00 0 0
+0 -1 1 24.00
+========================
+check between: 0 2
+CHECK: 31.05
+SDIST: 24.00
+i dedge: 2 - 31.05 pidx: 0 0
+0 -1 1
+vertices: 2 31.05 0 0
+0 -1 1 24.00
+========================
+check between: 0 3
+CHECK: 75.45
+SDIST: 24.00
+i dedge: 3 - 75.45 pidx: 0 0
+0 -1 1
+vertices: 3 75.45 0 0
+0 -1 1 24.00
+========================
+check between: 0 4
+CHECK: 59.00
+SDIST: 24.00
+i dedge: 4 - 59.00 pidx: 0 0
+0 -1 1
+vertices: 4 59.00 0 0
+0 -1 1 24.00
+========================
+check between: 0 5
+CHECK: inf
+SDIST: 24.00
+i dedge: 5 - inf pidx: -1 0
+0 -1 1
+vertices: 5 inf -1 0
+0 -1 1 24.00
+========================
+check between: 0 6
+CHECK: 31.58
+SDIST: 24.00
+i dedge: 6 - 31.58 pidx: 0 0
+0 -1 1
+vertices: 6 31.58 0 0
+0 -1 1 24.00
+========================
+check between: 0 7
+CHECK: 39.12
+SDIST: 24.00
+i dedge: 7 - 39.12 pidx: 0 0
+0 -1 1
+vertices: 7 39.12 0 0
+0 -1 1 24.00
+========================
+check between: 0 8
+CHECK: 59.41
+SDIST: 24.00
+i dedge: 8 - 59.41 pidx: 0 0
+0 -1 1
+vertices: 8 59.41 0 0
+0 -1 1 24.00
+========================
+check between: 0 9
+CHECK: 85.07
+SDIST: 24.00
+i dedge: 9 - 85.07 pidx: 0 0
+0 -1 1
+vertices: 9 85.07 0 0
+0 -1 1 24.00
+========================
+check between: 0 10
+CHECK: 35.44
+SDIST: 24.00
+i dedge: 10 - 35.44 pidx: 0 0
+0 -1 1
+vertices: 10 35.44 0 0
+0 -1 1 24.00
+========================
+check between: 0 11
+CHECK: 39.00
+SDIST: 24.00
+i dedge: 11 - 39.00 pidx: 0 0
+0 -1 1
+vertices: 11 39.00 0 0
+0 -1 1 24.00
+========================
+check between: 0 12
+CHECK: 17.12
+SDIST: 24.00
+i dedge: 12 - 17.12 pidx: 0 0
+0 -1 1
+vertices: 12 17.12 0 0
+0 -1 12 17.12
+========================
+check between: 0 13
+CHECK: 49.82
+SDIST: 17.12
+i dedge: 13 - 49.82 pidx: 0 0
+0 -1 12
+vertices: 13 49.82 0 0
+0 -1 12 17.12
+========================
+check between: 0 14
+CHECK: 40.50
+SDIST: 17.12
+i dedge: 14 - 40.50 pidx: 0 0
+0 -1 12
+vertices: 14 40.50 0 0
+0 -1 12 17.12
+========================
+check between: 0 15
+CHECK: 12.73
+SDIST: 17.12
+i dedge: 15 - 12.73 pidx: 0 0
+0 -1 12
+vertices: 15 12.73 0 0
+0 -1 15 12.73
+========================
+check between: 0 16
+CHECK: 32.28
+SDIST: 12.73
+i dedge: 16 - 32.28 pidx: 0 0
+0 -1 15
+vertices: 16 32.28 0 0
+0 -1 15 12.73
+========================
+check between: 0 17
+CHECK: inf
+SDIST: 12.73
+i dedge: 17 - inf pidx: -1 0
+0 -1 15
+vertices: 17 inf -1 0
+0 -1 15 12.73
+========================
+check between: 0 18
+CHECK: 90.82
+SDIST: 12.73
+i dedge: 18 - 90.82 pidx: 0 0
+0 -1 15
+vertices: 18 90.82 0 0
+0 -1 15 12.73
+========================
+check between: 0 19
+CHECK: inf
+SDIST: 12.73
+i dedge: 19 - inf pidx: -1 0
+0 -1 15
+vertices: 19 inf -1 0
+0 -1 15 12.73
+========================
+check between: 0 20
+CHECK: 9.43
+SDIST: 12.73
+i dedge: 20 - 9.43 pidx: 0 0
+0 -1 15
+vertices: 20 9.43 0 0
+0 -1 20 9.43
+========================
+check between: 0 21
+CHECK: inf
+SDIST: 9.43
+i dedge: 21 - inf pidx: -1 0
+0 -1 20
+vertices: 21 inf -1 0
+0 -1 20 9.43
+========================
+check between: 0 22
+CHECK: inf
+SDIST: 9.43
+i dedge: 22 - inf pidx: -1 0
+0 -1 20
+vertices: 22 inf -1 0
+0 -1 20 9.43
+========================
+check between: 0 23
+CHECK: 92.31
+SDIST: 9.43
+i dedge: 23 - 92.31 pidx: 0 0
+0 -1 20
+vertices: 23 92.31 0 0
+0 -1 20 9.43
+========================
+check between: 0 24
+CHECK: 55.76
+SDIST: 9.43
+i dedge: 24 - 55.76 pidx: 0 0
+0 -1 20
+vertices: 24 55.76 0 0
+0 -1 20 9.43
+========================
+check between: 0 25
+CHECK: 59.08
+SDIST: 9.43
+i dedge: 25 - 59.08 pidx: 0 0
+0 -1 20
+vertices: 25 59.08 0 0
+0 -1 20 9.43
+========================
+check between: 0 26
+CHECK: 32.56
+SDIST: 9.43
+i dedge: 26 - 32.56 pidx: 0 0
+0 -1 20
+vertices: 26 32.56 0 0
+0 -1 20 9.43
+========================
+check between: 0 27
+CHECK: 32.76
+SDIST: 9.43
+i dedge: 27 - 32.76 pidx: 0 0
+0 -1 20
+vertices: 27 32.76 0 0
+0 -1 20 9.43
+========================
+check between: 0 28
+CHECK: 39.00
+SDIST: 9.43
+i dedge: 28 - 39.00 pidx: 0 0
+0 -1 20
+vertices: 28 39.00 0 0
+0 -1 20 9.43
+========================
+check between: 0 29
+CHECK: 39.20
+SDIST: 9.43
+i dedge: 29 - 39.20 pidx: 0 0
+0 -1 20
+vertices: 29 39.20 0 0
+0 -1 20 9.43
+secon chnages
+20 0 20 9.43
+verticescidx: 20 9.43 0 1
+[0, 1] [1, 0] [2, 0] [3, 0] [4, 0] [5, 0] [6, 0] [7, 0] [8, 0] [9, 0] [10, 0] [11, 0] [12, 0] [13, 0] [14, 0] [15, 0] [16, 0] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 20 1
+CHECK: 16.76
+SDIST: inf
+i dedge: 1 - 24.00 pidx: 0 0
+20 0 20
+vertices: 1 16.76 20 0
+20 0 1 16.76
+========================
+check between: 20 2
+CHECK: 40.16
+SDIST: 16.76
+i dedge: 2 - 31.05 pidx: 0 0
+20 0 1
+vertices: 2 31.05 0 0
+20 0 1 16.76
+========================
+check between: 20 3
+CHECK: 84.20
+SDIST: 16.76
+i dedge: 3 - 75.45 pidx: 0 0
+20 0 1
+vertices: 3 75.45 0 0
+20 0 1 16.76
+========================
+check between: 20 4
+CHECK: 64.50
+SDIST: 16.76
+i dedge: 4 - 59.00 pidx: 0 0
+20 0 1
+vertices: 4 59.00 0 0
+20 0 1 16.76
+========================
+check between: 20 5
+CHECK: inf
+SDIST: 16.76
+i dedge: 5 - inf pidx: -1 0
+20 0 1
+vertices: 5 inf -1 0
+20 0 1 16.76
+========================
+check between: 20 6
+CHECK: 23.02
+SDIST: 16.76
+i dedge: 6 - 31.58 pidx: 0 0
+20 0 1
+vertices: 6 23.02 20 0
+20 0 1 16.76
+========================
+check between: 20 7
+CHECK: 36.07
+SDIST: 16.76
+i dedge: 7 - 39.12 pidx: 0 0
+20 0 1
+vertices: 7 36.07 20 0
+20 0 1 16.76
+========================
+check between: 20 8
+CHECK: 56.57
+SDIST: 16.76
+i dedge: 8 - 59.41 pidx: 0 0
+20 0 1
+vertices: 8 56.57 20 0
+20 0 1 16.76
+========================
+check between: 20 9
+CHECK: 92.48
+SDIST: 16.76
+i dedge: 9 - 85.07 pidx: 0 0
+20 0 1
+vertices: 9 85.07 0 0
+20 0 1 16.76
+========================
+check between: 20 10
+CHECK: 39.05
+SDIST: 16.76
+i dedge: 10 - 35.44 pidx: 0 0
+20 0 1
+vertices: 10 35.44 0 0
+20 0 1 16.76
+========================
+check between: 20 11
+CHECK: 41.59
+SDIST: 16.76
+i dedge: 11 - 39.00 pidx: 0 0
+20 0 1
+vertices: 11 39.00 0 0
+20 0 1 16.76
+========================
+check between: 20 12
+CHECK: 24.17
+SDIST: 16.76
+i dedge: 12 - 17.12 pidx: 0 0
+20 0 1
+vertices: 12 17.12 0 0
+20 0 1 16.76
+========================
+check between: 20 13
+CHECK: 43.32
+SDIST: 16.76
+i dedge: 13 - 49.82 pidx: 0 0
+20 0 1
+vertices: 13 43.32 20 0
+20 0 1 16.76
+========================
+check between: 20 14
+CHECK: 49.93
+SDIST: 16.76
+i dedge: 14 - 40.50 pidx: 0 0
+20 0 1
+vertices: 14 40.50 0 0
+20 0 1 16.76
+========================
+check between: 20 15
+CHECK: 22.02
+SDIST: 16.76
+i dedge: 15 - 12.73 pidx: 0 0
+20 0 1
+vertices: 15 12.73 0 0
+20 0 0 12.73
+========================
+check between: 20 16
+CHECK: 36.01
+SDIST: 12.73
+i dedge: 16 - 32.28 pidx: 0 0
+20 0 0
+vertices: 16 32.28 0 0
+20 0 0 12.73
+========================
+check between: 20 17
+CHECK: inf
+SDIST: 12.73
+i dedge: 17 - inf pidx: -1 0
+20 0 0
+vertices: 17 inf -1 0
+20 0 0 12.73
+========================
+check between: 20 18
+CHECK: 99.13
+SDIST: 12.73
+i dedge: 18 - 90.82 pidx: 0 0
+20 0 0
+vertices: 18 90.82 0 0
+20 0 0 12.73
+========================
+check between: 20 19
+CHECK: inf
+SDIST: 12.73
+i dedge: 19 - inf pidx: -1 0
+20 0 0
+vertices: 19 inf -1 0
+20 0 0 12.73
+========================
+check between: 20 21
+CHECK: inf
+SDIST: 12.73
+i dedge: 21 - inf pidx: -1 0
+20 0 0
+vertices: 21 inf -1 0
+20 0 0 12.73
+========================
+check between: 20 22
+CHECK: inf
+SDIST: 12.73
+i dedge: 22 - inf pidx: -1 0
+20 0 0
+vertices: 22 inf -1 0
+20 0 0 12.73
+========================
+check between: 20 23
+CHECK: 100.18
+SDIST: 12.73
+i dedge: 23 - 92.31 pidx: 0 0
+20 0 0
+vertices: 23 92.31 0 0
+20 0 0 12.73
+========================
+check between: 20 24
+CHECK: 65.19
+SDIST: 12.73
+i dedge: 24 - 55.76 pidx: 0 0
+20 0 0
+vertices: 24 55.76 0 0
+20 0 0 12.73
+========================
+check between: 20 25
+CHECK: 64.94
+SDIST: 12.73
+i dedge: 25 - 59.08 pidx: 0 0
+20 0 0
+vertices: 25 59.08 0 0
+20 0 0 12.73
+========================
+check between: 20 26
+CHECK: 41.48
+SDIST: 12.73
+i dedge: 26 - 32.56 pidx: 0 0
+20 0 0
+vertices: 26 32.56 0 0
+20 0 0 12.73
+========================
+check between: 20 27
+CHECK: 41.40
+SDIST: 12.73
+i dedge: 27 - 32.76 pidx: 0 0
+20 0 0
+vertices: 27 32.76 0 0
+20 0 0 12.73
+========================
+check between: 20 28
+CHECK: 44.72
+SDIST: 12.73
+i dedge: 28 - 39.00 pidx: 0 0
+20 0 0
+vertices: 28 39.00 0 0
+20 0 0 12.73
+========================
+check between: 20 29
+CHECK: 47.85
+SDIST: 12.73
+i dedge: 29 - 39.20 pidx: 0 0
+20 0 0
+vertices: 29 39.20 0 0
+20 0 0 12.73
+first changes
+0 20 0 12.73
+verticescidx: 0 0.00 -1 1
+[0, 1] [1, 0] [2, 0] [3, 0] [4, 0] [5, 0] [6, 0] [7, 0] [8, 0] [9, 0] [10, 0] [11, 0] [12, 0] [13, 0] [14, 0] [15, 0] [16, 0] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 0 1
+CHECK: 24.00
+SDIST: inf
+i dedge: 1 - 16.76 pidx: 20 0
+0 20 0
+vertices: 1 16.76 20 0
+0 20 20 16.76
+========================
+check between: 0 2
+CHECK: 31.05
+SDIST: 16.76
+i dedge: 2 - 31.05 pidx: 0 0
+0 20 20
+vertices: 2 31.05 0 0
+0 20 20 16.76
+========================
+check between: 0 3
+CHECK: 75.45
+SDIST: 16.76
+i dedge: 3 - 75.45 pidx: 0 0
+0 20 20
+vertices: 3 75.45 0 0
+0 20 20 16.76
+========================
+check between: 0 4
+CHECK: 59.00
+SDIST: 16.76
+i dedge: 4 - 59.00 pidx: 0 0
+0 20 20
+vertices: 4 59.00 0 0
+0 20 20 16.76
+========================
+check between: 0 5
+CHECK: inf
+SDIST: 16.76
+i dedge: 5 - inf pidx: -1 0
+0 20 20
+vertices: 5 inf -1 0
+0 20 20 16.76
+========================
+check between: 0 6
+CHECK: 31.58
+SDIST: 16.76
+i dedge: 6 - 23.02 pidx: 20 0
+0 20 20
+vertices: 6 23.02 20 0
+0 20 20 16.76
+========================
+check between: 0 7
+CHECK: 39.12
+SDIST: 16.76
+i dedge: 7 - 36.07 pidx: 20 0
+0 20 20
+vertices: 7 36.07 20 0
+0 20 20 16.76
+========================
+check between: 0 8
+CHECK: 59.41
+SDIST: 16.76
+i dedge: 8 - 56.57 pidx: 20 0
+0 20 20
+vertices: 8 56.57 20 0
+0 20 20 16.76
+========================
+check between: 0 9
+CHECK: 85.07
+SDIST: 16.76
+i dedge: 9 - 85.07 pidx: 0 0
+0 20 20
+vertices: 9 85.07 0 0
+0 20 20 16.76
+========================
+check between: 0 10
+CHECK: 35.44
+SDIST: 16.76
+i dedge: 10 - 35.44 pidx: 0 0
+0 20 20
+vertices: 10 35.44 0 0
+0 20 20 16.76
+========================
+check between: 0 11
+CHECK: 39.00
+SDIST: 16.76
+i dedge: 11 - 39.00 pidx: 0 0
+0 20 20
+vertices: 11 39.00 0 0
+0 20 20 16.76
+========================
+check between: 0 12
+CHECK: 17.12
+SDIST: 16.76
+i dedge: 12 - 17.12 pidx: 0 0
+0 20 20
+vertices: 12 17.12 0 0
+0 20 20 16.76
+========================
+check between: 0 13
+CHECK: 49.82
+SDIST: 16.76
+i dedge: 13 - 43.32 pidx: 20 0
+0 20 20
+vertices: 13 43.32 20 0
+0 20 20 16.76
+========================
+check between: 0 14
+CHECK: 40.50
+SDIST: 16.76
+i dedge: 14 - 40.50 pidx: 0 0
+0 20 20
+vertices: 14 40.50 0 0
+0 20 20 16.76
+========================
+check between: 0 15
+CHECK: 12.73
+SDIST: 16.76
+i dedge: 15 - 12.73 pidx: 0 0
+0 20 20
+vertices: 15 12.73 0 0
+0 20 15 12.73
+========================
+check between: 0 16
+CHECK: 32.28
+SDIST: 12.73
+i dedge: 16 - 32.28 pidx: 0 0
+0 20 15
+vertices: 16 32.28 0 0
+0 20 15 12.73
+========================
+check between: 0 17
+CHECK: inf
+SDIST: 12.73
+i dedge: 17 - inf pidx: -1 0
+0 20 15
+vertices: 17 inf -1 0
+0 20 15 12.73
+========================
+check between: 0 18
+CHECK: 90.82
+SDIST: 12.73
+i dedge: 18 - 90.82 pidx: 0 0
+0 20 15
+vertices: 18 90.82 0 0
+0 20 15 12.73
+========================
+check between: 0 19
+CHECK: inf
+SDIST: 12.73
+i dedge: 19 - inf pidx: -1 0
+0 20 15
+vertices: 19 inf -1 0
+0 20 15 12.73
+========================
+check between: 0 21
+CHECK: inf
+SDIST: 12.73
+i dedge: 21 - inf pidx: -1 0
+0 20 15
+vertices: 21 inf -1 0
+0 20 15 12.73
+========================
+check between: 0 22
+CHECK: inf
+SDIST: 12.73
+i dedge: 22 - inf pidx: -1 0
+0 20 15
+vertices: 22 inf -1 0
+0 20 15 12.73
+========================
+check between: 0 23
+CHECK: 92.31
+SDIST: 12.73
+i dedge: 23 - 92.31 pidx: 0 0
+0 20 15
+vertices: 23 92.31 0 0
+0 20 15 12.73
+========================
+check between: 0 24
+CHECK: 55.76
+SDIST: 12.73
+i dedge: 24 - 55.76 pidx: 0 0
+0 20 15
+vertices: 24 55.76 0 0
+0 20 15 12.73
+========================
+check between: 0 25
+CHECK: 59.08
+SDIST: 12.73
+i dedge: 25 - 59.08 pidx: 0 0
+0 20 15
+vertices: 25 59.08 0 0
+0 20 15 12.73
+========================
+check between: 0 26
+CHECK: 32.56
+SDIST: 12.73
+i dedge: 26 - 32.56 pidx: 0 0
+0 20 15
+vertices: 26 32.56 0 0
+0 20 15 12.73
+========================
+check between: 0 27
+CHECK: 32.76
+SDIST: 12.73
+i dedge: 27 - 32.76 pidx: 0 0
+0 20 15
+vertices: 27 32.76 0 0
+0 20 15 12.73
+========================
+check between: 0 28
+CHECK: 39.00
+SDIST: 12.73
+i dedge: 28 - 39.00 pidx: 0 0
+0 20 15
+vertices: 28 39.00 0 0
+0 20 15 12.73
+========================
+check between: 0 29
+CHECK: 39.20
+SDIST: 12.73
+i dedge: 29 - 39.20 pidx: 0 0
+0 20 15
+vertices: 29 39.20 0 0
+0 20 15 12.73
+first changes
+15 0 15 12.73
+verticescidx: 15 12.73 0 1
+[0, 1] [1, 0] [2, 0] [3, 0] [4, 0] [5, 0] [6, 0] [7, 0] [8, 0] [9, 0] [10, 0] [11, 0] [12, 0] [13, 0] [14, 0] [15, 1] [16, 0] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 15 1
+CHECK: 34.21
+SDIST: inf
+i dedge: 1 - 16.76 pidx: 20 0
+15 0 15
+vertices: 1 16.76 20 0
+15 0 20 16.76
+========================
+check between: 15 2
+CHECK: 21.02
+SDIST: 16.76
+i dedge: 2 - 31.05 pidx: 0 0
+15 0 20
+vertices: 2 21.02 15 0
+15 0 20 16.76
+========================
+check between: 15 3
+CHECK: 62.97
+SDIST: 16.76
+i dedge: 3 - 75.45 pidx: 0 0
+15 0 20
+vertices: 3 62.97 15 0
+15 0 20 16.76
+========================
+check between: 15 4
+CHECK: 50.80
+SDIST: 16.76
+i dedge: 4 - 59.00 pidx: 0 0
+15 0 20
+vertices: 4 50.80 15 0
+15 0 20 16.76
+========================
+check between: 15 5
+CHECK: inf
+SDIST: 16.76
+i dedge: 5 - inf pidx: -1 0
+15 0 20
+vertices: 5 inf -1 0
+15 0 20 16.76
+========================
+check between: 15 6
+CHECK: 42.72
+SDIST: 16.76
+i dedge: 6 - 23.02 pidx: 20 0
+15 0 20
+vertices: 6 23.02 20 0
+15 0 20 16.76
+========================
+check between: 15 7
+CHECK: 43.68
+SDIST: 16.76
+i dedge: 7 - 36.07 pidx: 20 0
+15 0 20
+vertices: 7 36.07 20 0
+15 0 20 16.76
+========================
+check between: 15 8
+CHECK: 62.65
+SDIST: 16.76
+i dedge: 8 - 56.57 pidx: 20 0
+15 0 20
+vertices: 8 56.57 20 0
+15 0 20 16.76
+========================
+check between: 15 9
+CHECK: 73.98
+SDIST: 16.76
+i dedge: 9 - 85.07 pidx: 0 0
+15 0 20
+vertices: 9 73.98 15 0
+15 0 20 16.76
+========================
+check between: 15 10
+CHECK: 31.40
+SDIST: 16.76
+i dedge: 10 - 35.44 pidx: 0 0
+15 0 20
+vertices: 10 31.40 15 0
+15 0 20 16.76
+========================
+check between: 15 11
+CHECK: 36.12
+SDIST: 16.76
+i dedge: 11 - 39.00 pidx: 0 0
+15 0 20
+vertices: 11 36.12 15 0
+15 0 20 16.76
+========================
+check between: 15 12
+CHECK: 10.63
+SDIST: 16.76
+i dedge: 12 - 17.12 pidx: 0 0
+15 0 20
+vertices: 12 10.63 15 0
+15 0 12 10.63
+========================
+check between: 15 13
+CHECK: 58.00
+SDIST: 10.63
+i dedge: 13 - 43.32 pidx: 20 0
+15 0 12
+vertices: 13 43.32 20 0
+15 0 12 10.63
+========================
+check between: 15 14
+CHECK: 28.18
+SDIST: 10.63
+i dedge: 14 - 40.50 pidx: 0 0
+15 0 12
+vertices: 14 28.18 15 0
+15 0 12 10.63
+========================
+check between: 15 16
+CHECK: 28.43
+SDIST: 10.63
+i dedge: 16 - 32.28 pidx: 0 0
+15 0 12
+vertices: 16 28.43 15 0
+15 0 12 10.63
+========================
+check between: 15 17
+CHECK: inf
+SDIST: 10.63
+i dedge: 17 - inf pidx: -1 0
+15 0 12
+vertices: 17 inf -1 0
+15 0 12 10.63
+========================
+check between: 15 18
+CHECK: 78.72
+SDIST: 10.63
+i dedge: 18 - 90.82 pidx: 0 0
+15 0 12
+vertices: 18 78.72 15 0
+15 0 12 10.63
+========================
+check between: 15 19
+CHECK: inf
+SDIST: 10.63
+i dedge: 19 - inf pidx: -1 0
+15 0 12
+vertices: 19 inf -1 0
+15 0 12 10.63
+========================
+check between: 15 21
+CHECK: inf
+SDIST: 10.63
+i dedge: 21 - inf pidx: -1 0
+15 0 12
+vertices: 21 inf -1 0
+15 0 12 10.63
+========================
+check between: 15 22
+CHECK: inf
+SDIST: 10.63
+i dedge: 22 - inf pidx: -1 0
+15 0 12
+vertices: 22 inf -1 0
+15 0 12 10.63
+========================
+check between: 15 23
+CHECK: 80.65
+SDIST: 10.63
+i dedge: 23 - 92.31 pidx: 0 0
+15 0 12
+vertices: 23 80.65 15 0
+15 0 12 10.63
+========================
+check between: 15 24
+CHECK: 43.42
+SDIST: 10.63
+i dedge: 24 - 55.76 pidx: 0 0
+15 0 12
+vertices: 24 43.42 15 0
+15 0 12 10.63
+========================
+check between: 15 25
+CHECK: 50.36
+SDIST: 10.63
+i dedge: 25 - 59.08 pidx: 0 0
+15 0 12
+vertices: 25 50.36 15 0
+15 0 12 10.63
+========================
+check between: 15 26
+CHECK: 23.19
+SDIST: 10.63
+i dedge: 26 - 32.56 pidx: 0 0
+15 0 12
+vertices: 26 23.19 15 0
+15 0 12 10.63
+========================
+check between: 15 27
+CHECK: 20.62
+SDIST: 10.63
+i dedge: 27 - 32.76 pidx: 0 0
+15 0 12
+vertices: 27 20.62 15 0
+15 0 12 10.63
+========================
+check between: 15 28
+CHECK: 31.32
+SDIST: 10.63
+i dedge: 28 - 39.00 pidx: 0 0
+15 0 12
+vertices: 28 31.32 15 0
+15 0 12 10.63
+========================
+check between: 15 29
+CHECK: 30.41
+SDIST: 10.63
+i dedge: 29 - 39.20 pidx: 0 0
+15 0 12
+vertices: 29 30.41 15 0
+15 0 12 10.63
+first changes
+12 15 12 10.63
+verticescidx: 12 10.63 15 1
+[0, 1] [1, 0] [2, 0] [3, 0] [4, 0] [5, 0] [6, 0] [7, 0] [8, 0] [9, 0] [10, 0] [11, 0] [12, 1] [13, 0] [14, 0] [15, 1] [16, 0] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 12 1
+CHECK: 31.06
+SDIST: inf
+i dedge: 1 - 16.76 pidx: 20 0
+12 15 12
+vertices: 1 16.76 20 0
+12 15 20 16.76
+========================
+check between: 12 2
+CHECK: 29.41
+SDIST: 16.76
+i dedge: 2 - 21.02 pidx: 15 0
+12 15 20
+vertices: 2 21.02 15 0
+12 15 20 16.76
+========================
+check between: 12 3
+CHECK: 60.88
+SDIST: 16.76
+i dedge: 3 - 62.97 pidx: 15 0
+12 15 20
+vertices: 3 60.88 12 0
+12 15 20 16.76
+========================
+check between: 12 4
+CHECK: 42.05
+SDIST: 16.76
+i dedge: 4 - 50.80 pidx: 15 0
+12 15 20
+vertices: 4 42.05 12 0
+12 15 20 16.76
+========================
+check between: 12 5
+CHECK: inf
+SDIST: 16.76
+i dedge: 5 - inf pidx: -1 0
+12 15 20
+vertices: 5 inf -1 0
+12 15 20 16.76
+========================
+check between: 12 6
+CHECK: 40.22
+SDIST: 16.76
+i dedge: 6 - 23.02 pidx: 20 0
+12 15 20
+vertices: 6 23.02 20 0
+12 15 20 16.76
+========================
+check between: 12 7
+CHECK: 35.23
+SDIST: 16.76
+i dedge: 7 - 36.07 pidx: 20 0
+12 15 20
+vertices: 7 35.23 12 0
+12 15 20 16.76
+========================
+check between: 12 8
+CHECK: 53.14
+SDIST: 16.76
+i dedge: 8 - 56.57 pidx: 20 0
+12 15 20
+vertices: 8 53.14 12 0
+12 15 20 16.76
+========================
+check between: 12 9
+CHECK: 68.35
+SDIST: 16.76
+i dedge: 9 - 73.98 pidx: 15 0
+12 15 20
+vertices: 9 68.35 12 0
+12 15 20 16.76
+========================
+check between: 12 10
+CHECK: 20.81
+SDIST: 16.76
+i dedge: 10 - 31.40 pidx: 15 0
+12 15 20
+vertices: 10 20.81 12 0
+12 15 20 16.76
+========================
+check between: 12 11
+CHECK: 25.50
+SDIST: 16.76
+i dedge: 11 - 36.12 pidx: 15 0
+12 15 20
+vertices: 11 25.50 12 0
+12 15 20 16.76
+========================
+check between: 12 13
+CHECK: 51.62
+SDIST: 16.76
+i dedge: 13 - 43.32 pidx: 20 0
+12 15 20
+vertices: 13 43.32 20 0
+12 15 20 16.76
+========================
+check between: 12 14
+CHECK: 32.39
+SDIST: 16.76
+i dedge: 14 - 28.18 pidx: 15 0
+12 15 20
+vertices: 14 28.18 15 0
+12 15 20 16.76
+========================
+check between: 12 16
+CHECK: 17.80
+SDIST: 16.76
+i dedge: 16 - 28.43 pidx: 15 0
+12 15 20
+vertices: 16 17.80 12 0
+12 15 20 16.76
+========================
+check between: 12 17
+CHECK: inf
+SDIST: 16.76
+i dedge: 17 - inf pidx: -1 0
+12 15 20
+vertices: 17 inf -1 0
+12 15 20 16.76
+========================
+check between: 12 18
+CHECK: 75.17
+SDIST: 16.76
+i dedge: 18 - 78.72 pidx: 15 0
+12 15 20
+vertices: 18 75.17 12 0
+12 15 20 16.76
+========================
+check between: 12 19
+CHECK: inf
+SDIST: 16.76
+i dedge: 19 - inf pidx: -1 0
+12 15 20
+vertices: 19 inf -1 0
+12 15 20 16.76
+========================
+check between: 12 21
+CHECK: inf
+SDIST: 16.76
+i dedge: 21 - inf pidx: -1 0
+12 15 20
+vertices: 21 inf -1 0
+12 15 20 16.76
+========================
+check between: 12 22
+CHECK: inf
+SDIST: 16.76
+i dedge: 22 - inf pidx: -1 0
+12 15 20
+vertices: 22 inf -1 0
+12 15 20 16.76
+========================
+check between: 12 23
+CHECK: 76.03
+SDIST: 16.76
+i dedge: 23 - 80.65 pidx: 15 0
+12 15 20
+vertices: 23 76.03 12 0
+12 15 20 16.76
+========================
+check between: 12 24
+CHECK: 46.84
+SDIST: 16.76
+i dedge: 24 - 43.42 pidx: 15 0
+12 15 20
+vertices: 24 43.42 15 0
+12 15 20 16.76
+========================
+check between: 12 25
+CHECK: 42.01
+SDIST: 16.76
+i dedge: 25 - 50.36 pidx: 15 0
+12 15 20
+vertices: 25 42.01 12 0
+12 15 20 16.76
+========================
+check between: 12 26
+CHECK: 31.95
+SDIST: 16.76
+i dedge: 26 - 23.19 pidx: 15 0
+12 15 20
+vertices: 26 23.19 15 0
+12 15 20 16.76
+========================
+check between: 12 27
+CHECK: 18.60
+SDIST: 16.76
+i dedge: 27 - 20.62 pidx: 15 0
+12 15 20
+vertices: 27 18.60 12 0
+12 15 20 16.76
+========================
+check between: 12 28
+CHECK: 22.09
+SDIST: 16.76
+i dedge: 28 - 31.32 pidx: 15 0
+12 15 20
+vertices: 28 22.09 12 0
+12 15 20 16.76
+========================
+check between: 12 29
+CHECK: 39.22
+SDIST: 16.76
+i dedge: 29 - 30.41 pidx: 15 0
+12 15 20
+vertices: 29 30.41 15 0
+12 15 20 16.76
+first changes
+20 12 20 16.76
+verticescidx: 20 9.43 0 1
+[0, 1] [1, 0] [2, 0] [3, 0] [4, 0] [5, 0] [6, 0] [7, 0] [8, 0] [9, 0] [10, 0] [11, 0] [12, 1] [13, 0] [14, 0] [15, 1] [16, 0] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 20 1
+CHECK: 16.76
+SDIST: inf
+i dedge: 1 - 16.76 pidx: 20 0
+20 12 20
+vertices: 1 16.76 20 0
+20 12 1 16.76
+========================
+check between: 20 2
+CHECK: 40.16
+SDIST: 16.76
+i dedge: 2 - 21.02 pidx: 15 0
+20 12 1
+vertices: 2 21.02 15 0
+20 12 1 16.76
+========================
+check between: 20 3
+CHECK: 84.20
+SDIST: 16.76
+i dedge: 3 - 60.88 pidx: 12 0
+20 12 1
+vertices: 3 60.88 12 0
+20 12 1 16.76
+========================
+check between: 20 4
+CHECK: 64.50
+SDIST: 16.76
+i dedge: 4 - 42.05 pidx: 12 0
+20 12 1
+vertices: 4 42.05 12 0
+20 12 1 16.76
+========================
+check between: 20 5
+CHECK: inf
+SDIST: 16.76
+i dedge: 5 - inf pidx: -1 0
+20 12 1
+vertices: 5 inf -1 0
+20 12 1 16.76
+========================
+check between: 20 6
+CHECK: 23.02
+SDIST: 16.76
+i dedge: 6 - 23.02 pidx: 20 0
+20 12 1
+vertices: 6 23.02 20 0
+20 12 1 16.76
+========================
+check between: 20 7
+CHECK: 36.07
+SDIST: 16.76
+i dedge: 7 - 35.23 pidx: 12 0
+20 12 1
+vertices: 7 35.23 12 0
+20 12 1 16.76
+========================
+check between: 20 8
+CHECK: 56.57
+SDIST: 16.76
+i dedge: 8 - 53.14 pidx: 12 0
+20 12 1
+vertices: 8 53.14 12 0
+20 12 1 16.76
+========================
+check between: 20 9
+CHECK: 92.48
+SDIST: 16.76
+i dedge: 9 - 68.35 pidx: 12 0
+20 12 1
+vertices: 9 68.35 12 0
+20 12 1 16.76
+========================
+check between: 20 10
+CHECK: 39.05
+SDIST: 16.76
+i dedge: 10 - 20.81 pidx: 12 0
+20 12 1
+vertices: 10 20.81 12 0
+20 12 1 16.76
+========================
+check between: 20 11
+CHECK: 41.59
+SDIST: 16.76
+i dedge: 11 - 25.50 pidx: 12 0
+20 12 1
+vertices: 11 25.50 12 0
+20 12 1 16.76
+========================
+check between: 20 13
+CHECK: 43.32
+SDIST: 16.76
+i dedge: 13 - 43.32 pidx: 20 0
+20 12 1
+vertices: 13 43.32 20 0
+20 12 1 16.76
+========================
+check between: 20 14
+CHECK: 49.93
+SDIST: 16.76
+i dedge: 14 - 28.18 pidx: 15 0
+20 12 1
+vertices: 14 28.18 15 0
+20 12 1 16.76
+========================
+check between: 20 16
+CHECK: 36.01
+SDIST: 16.76
+i dedge: 16 - 17.80 pidx: 12 0
+20 12 1
+vertices: 16 17.80 12 0
+20 12 1 16.76
+========================
+check between: 20 17
+CHECK: inf
+SDIST: 16.76
+i dedge: 17 - inf pidx: -1 0
+20 12 1
+vertices: 17 inf -1 0
+20 12 1 16.76
+========================
+check between: 20 18
+CHECK: 99.13
+SDIST: 16.76
+i dedge: 18 - 75.17 pidx: 12 0
+20 12 1
+vertices: 18 75.17 12 0
+20 12 1 16.76
+========================
+check between: 20 19
+CHECK: inf
+SDIST: 16.76
+i dedge: 19 - inf pidx: -1 0
+20 12 1
+vertices: 19 inf -1 0
+20 12 1 16.76
+========================
+check between: 20 21
+CHECK: inf
+SDIST: 16.76
+i dedge: 21 - inf pidx: -1 0
+20 12 1
+vertices: 21 inf -1 0
+20 12 1 16.76
+========================
+check between: 20 22
+CHECK: inf
+SDIST: 16.76
+i dedge: 22 - inf pidx: -1 0
+20 12 1
+vertices: 22 inf -1 0
+20 12 1 16.76
+========================
+check between: 20 23
+CHECK: 100.18
+SDIST: 16.76
+i dedge: 23 - 76.03 pidx: 12 0
+20 12 1
+vertices: 23 76.03 12 0
+20 12 1 16.76
+========================
+check between: 20 24
+CHECK: 65.19
+SDIST: 16.76
+i dedge: 24 - 43.42 pidx: 15 0
+20 12 1
+vertices: 24 43.42 15 0
+20 12 1 16.76
+========================
+check between: 20 25
+CHECK: 64.94
+SDIST: 16.76
+i dedge: 25 - 42.01 pidx: 12 0
+20 12 1
+vertices: 25 42.01 12 0
+20 12 1 16.76
+========================
+check between: 20 26
+CHECK: 41.48
+SDIST: 16.76
+i dedge: 26 - 23.19 pidx: 15 0
+20 12 1
+vertices: 26 23.19 15 0
+20 12 1 16.76
+========================
+check between: 20 27
+CHECK: 41.40
+SDIST: 16.76
+i dedge: 27 - 18.60 pidx: 12 0
+20 12 1
+vertices: 27 18.60 12 0
+20 12 1 16.76
+========================
+check between: 20 28
+CHECK: 44.72
+SDIST: 16.76
+i dedge: 28 - 22.09 pidx: 12 0
+20 12 1
+vertices: 28 22.09 12 0
+20 12 1 16.76
+========================
+check between: 20 29
+CHECK: 47.85
+SDIST: 16.76
+i dedge: 29 - 30.41 pidx: 15 0
+20 12 1
+vertices: 29 30.41 15 0
+20 12 1 16.76
+first changes
+1 20 1 16.76
+verticescidx: 1 16.76 20 1
+[0, 1] [1, 1] [2, 0] [3, 0] [4, 0] [5, 0] [6, 0] [7, 0] [8, 0] [9, 0] [10, 0] [11, 0] [12, 1] [13, 0] [14, 0] [15, 1] [16, 0] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 1 2
+CHECK: 54.59
+SDIST: inf
+i dedge: 2 - 21.02 pidx: 15 0
+1 20 1
+vertices: 2 21.02 15 0
+1 20 15 21.02
+========================
+check between: 1 3
+CHECK: 91.29
+SDIST: 21.02
+i dedge: 3 - 60.88 pidx: 12 0
+1 20 15
+vertices: 3 60.88 12 0
+1 20 15 21.02
+========================
+check between: 1 4
+CHECK: 63.69
+SDIST: 21.02
+i dedge: 4 - 42.05 pidx: 12 0
+1 20 15
+vertices: 4 42.05 12 0
+1 20 15 21.02
+========================
+check between: 1 5
+CHECK: inf
+SDIST: 21.02
+i dedge: 5 - inf pidx: -1 0
+1 20 15
+vertices: 5 inf -1 0
+1 20 15 21.02
+========================
+check between: 1 6
+CHECK: 9.22
+SDIST: 21.02
+i dedge: 6 - 23.02 pidx: 20 0
+1 20 15
+vertices: 6 9.22 1 0
+1 20 6 9.22
+========================
+check between: 1 7
+CHECK: 22.85
+SDIST: 9.22
+i dedge: 7 - 35.23 pidx: 12 0
+1 20 6
+vertices: 7 22.85 1 0
+1 20 6 9.22
+========================
+check between: 1 8
+CHECK: 42.44
+SDIST: 9.22
+i dedge: 8 - 53.14 pidx: 12 0
+1 20 6
+vertices: 8 42.44 1 0
+1 20 6 9.22
+========================
+check between: 1 9
+CHECK: 95.19
+SDIST: 9.22
+i dedge: 9 - 68.35 pidx: 12 0
+1 20 6
+vertices: 9 68.35 12 0
+1 20 6 9.22
+========================
+check between: 1 10
+CHECK: 36.77
+SDIST: 9.22
+i dedge: 10 - 20.81 pidx: 12 0
+1 20 6
+vertices: 10 20.81 12 0
+1 20 6 9.22
+========================
+check between: 1 11
+CHECK: 37.11
+SDIST: 9.22
+i dedge: 11 - 25.50 pidx: 12 0
+1 20 6
+vertices: 11 25.50 12 0
+1 20 6 9.22
+========================
+check between: 1 13
+CHECK: 26.57
+SDIST: 9.22
+i dedge: 13 - 43.32 pidx: 20 0
+1 20 6
+vertices: 13 26.57 1 0
+1 20 6 9.22
+========================
+check between: 1 14
+CHECK: 62.03
+SDIST: 9.22
+i dedge: 14 - 28.18 pidx: 15 0
+1 20 6
+vertices: 14 28.18 15 0
+1 20 6 9.22
+========================
+check between: 1 16
+CHECK: 34.44
+SDIST: 9.22
+i dedge: 16 - 17.80 pidx: 12 0
+1 20 6
+vertices: 16 17.80 12 0
+1 20 6 9.22
+========================
+check between: 1 17
+CHECK: inf
+SDIST: 9.22
+i dedge: 17 - inf pidx: -1 0
+1 20 6
+vertices: 17 inf -1 0
+1 20 6 9.22
+========================
+check between: 1 18
+CHECK: 104.35
+SDIST: 9.22
+i dedge: 18 - 75.17 pidx: 12 0
+1 20 6
+vertices: 18 75.17 12 0
+1 20 6 9.22
+========================
+check between: 1 19
+CHECK: inf
+SDIST: 9.22
+i dedge: 19 - inf pidx: -1 0
+1 20 6
+vertices: 19 inf -1 0
+1 20 6 9.22
+========================
+check between: 1 21
+CHECK: inf
+SDIST: 9.22
+i dedge: 21 - inf pidx: -1 0
+1 20 6
+vertices: 21 inf -1 0
+1 20 6 9.22
+========================
+check between: 1 22
+CHECK: inf
+SDIST: 9.22
+i dedge: 22 - inf pidx: -1 0
+1 20 6
+vertices: 22 inf -1 0
+1 20 6 9.22
+========================
+check between: 1 23
+CHECK: 104.04
+SDIST: 9.22
+i dedge: 23 - 76.03 pidx: 12 0
+1 20 6
+vertices: 23 76.03 12 0
+1 20 6 9.22
+========================
+check between: 1 24
+CHECK: 77.08
+SDIST: 9.22
+i dedge: 24 - 43.42 pidx: 15 0
+1 20 6
+vertices: 24 43.42 15 0
+1 20 6 9.22
+========================
+check between: 1 25
+CHECK: 64.88
+SDIST: 9.22
+i dedge: 25 - 42.01 pidx: 12 0
+1 20 6
+vertices: 25 42.01 12 0
+1 20 6 9.22
+========================
+check between: 1 26
+CHECK: 56.32
+SDIST: 9.22
+i dedge: 26 - 23.19 pidx: 15 0
+1 20 6
+vertices: 26 23.19 15 0
+1 20 6 9.22
+========================
+check between: 1 27
+CHECK: 49.65
+SDIST: 9.22
+i dedge: 27 - 18.60 pidx: 12 0
+1 20 6
+vertices: 27 18.60 12 0
+1 20 6 9.22
+========================
+check between: 1 28
+CHECK: 45.79
+SDIST: 9.22
+i dedge: 28 - 22.09 pidx: 12 0
+1 20 6
+vertices: 28 22.09 12 0
+1 20 6 9.22
+========================
+check between: 1 29
+CHECK: 63.13
+SDIST: 9.22
+i dedge: 29 - 30.41 pidx: 15 0
+1 20 6
+vertices: 29 30.41 15 0
+1 20 6 9.22
+first changes
+6 1 6 9.22
+verticescidx: 6 9.22 1 1
+[0, 1] [1, 1] [2, 0] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 0] [11, 0] [12, 1] [13, 0] [14, 0] [15, 1] [16, 0] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 6 2
+CHECK: 62.59
+SDIST: inf
+i dedge: 2 - 21.02 pidx: 15 0
+6 1 6
+vertices: 2 21.02 15 0
+6 1 15 21.02
+========================
+check between: 6 3
+CHECK: 100.50
+SDIST: 21.02
+i dedge: 3 - 60.88 pidx: 12 0
+6 1 15
+vertices: 3 60.88 12 0
+6 1 15 21.02
+========================
+check between: 6 4
+CHECK: 72.01
+SDIST: 21.02
+i dedge: 4 - 42.05 pidx: 12 0
+6 1 15
+vertices: 4 42.05 12 0
+6 1 15 21.02
+========================
+check between: 6 5
+CHECK: inf
+SDIST: 21.02
+i dedge: 5 - inf pidx: -1 0
+6 1 15
+vertices: 5 inf -1 0
+6 1 15 21.02
+========================
+check between: 6 7
+CHECK: 27.07
+SDIST: 21.02
+i dedge: 7 - 22.85 pidx: 1 0
+6 1 15
+vertices: 7 22.85 1 0
+6 1 15 21.02
+========================
+check between: 6 8
+CHECK: 44.38
+SDIST: 21.02
+i dedge: 8 - 42.44 pidx: 1 0
+6 1 15
+vertices: 8 42.44 1 0
+6 1 15 21.02
+========================
+check between: 6 9
+CHECK: 104.01
+SDIST: 21.02
+i dedge: 9 - 68.35 pidx: 12 0
+6 1 15
+vertices: 9 68.35 12 0
+6 1 15 21.02
+========================
+check between: 6 10
+CHECK: 45.18
+SDIST: 21.02
+i dedge: 10 - 20.81 pidx: 12 0
+6 1 15
+vertices: 10 20.81 12 0
+6 1 12 20.81
+========================
+check between: 6 11
+CHECK: 44.94
+SDIST: 20.81
+i dedge: 11 - 25.50 pidx: 12 0
+6 1 12
+vertices: 11 25.50 12 0
+6 1 12 20.81
+========================
+check between: 6 13
+CHECK: 23.43
+SDIST: 20.81
+i dedge: 13 - 26.57 pidx: 1 0
+6 1 12
+vertices: 13 23.43 6 0
+6 1 12 20.81
+========================
+check between: 6 14
+CHECK: 70.77
+SDIST: 20.81
+i dedge: 14 - 28.18 pidx: 15 0
+6 1 12
+vertices: 14 28.18 15 0
+6 1 12 20.81
+========================
+check between: 6 16
+CHECK: 43.05
+SDIST: 20.81
+i dedge: 16 - 17.80 pidx: 12 0
+6 1 12
+vertices: 16 17.80 12 0
+6 1 12 17.80
+========================
+check between: 6 17
+CHECK: inf
+SDIST: 17.80
+i dedge: 17 - inf pidx: -1 0
+6 1 12
+vertices: 17 inf -1 0
+6 1 12 17.80
+========================
+check between: 6 18
+CHECK: 113.45
+SDIST: 17.80
+i dedge: 18 - 75.17 pidx: 12 0
+6 1 12
+vertices: 18 75.17 12 0
+6 1 12 17.80
+========================
+check between: 6 19
+CHECK: inf
+SDIST: 17.80
+i dedge: 19 - inf pidx: -1 0
+6 1 12
+vertices: 19 inf -1 0
+6 1 12 17.80
+========================
+check between: 6 21
+CHECK: inf
+SDIST: 17.80
+i dedge: 21 - inf pidx: -1 0
+6 1 12
+vertices: 21 inf -1 0
+6 1 12 17.80
+========================
+check between: 6 22
+CHECK: inf
+SDIST: 17.80
+i dedge: 22 - inf pidx: -1 0
+6 1 12
+vertices: 22 inf -1 0
+6 1 12 17.80
+========================
+check between: 6 23
+CHECK: 113.00
+SDIST: 17.80
+i dedge: 23 - 76.03 pidx: 12 0
+6 1 12
+vertices: 23 76.03 12 0
+6 1 12 17.80
+========================
+check between: 6 24
+CHECK: 85.91
+SDIST: 17.80
+i dedge: 24 - 43.42 pidx: 15 0
+6 1 12
+vertices: 24 43.42 15 0
+6 1 12 17.80
+========================
+check between: 6 25
+CHECK: 73.36
+SDIST: 17.80
+i dedge: 25 - 42.01 pidx: 12 0
+6 1 12
+vertices: 25 42.01 12 0
+6 1 12 17.80
+========================
+check between: 6 26
+CHECK: 64.13
+SDIST: 17.80
+i dedge: 26 - 23.19 pidx: 15 0
+6 1 12
+vertices: 26 23.19 15 0
+6 1 12 17.80
+========================
+check between: 6 27
+CHECK: 58.82
+SDIST: 17.80
+i dedge: 27 - 18.60 pidx: 12 0
+6 1 12
+vertices: 27 18.60 12 0
+6 1 12 17.80
+========================
+check between: 6 28
+CHECK: 54.64
+SDIST: 17.80
+i dedge: 28 - 22.09 pidx: 12 0
+6 1 12
+vertices: 28 22.09 12 0
+6 1 12 17.80
+========================
+check between: 6 29
+CHECK: 70.71
+SDIST: 17.80
+i dedge: 29 - 30.41 pidx: 15 0
+6 1 12
+vertices: 29 30.41 15 0
+6 1 12 17.80
+first changes
+12 6 12 17.80
+verticescidx: 12 10.63 15 1
+[0, 1] [1, 1] [2, 0] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 0] [11, 0] [12, 1] [13, 0] [14, 0] [15, 1] [16, 0] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 12 2
+CHECK: 29.41
+SDIST: inf
+i dedge: 2 - 21.02 pidx: 15 0
+12 6 12
+vertices: 2 21.02 15 0
+12 6 15 21.02
+========================
+check between: 12 3
+CHECK: 60.88
+SDIST: 21.02
+i dedge: 3 - 60.88 pidx: 12 0
+12 6 15
+vertices: 3 60.88 12 0
+12 6 15 21.02
+========================
+check between: 12 4
+CHECK: 42.05
+SDIST: 21.02
+i dedge: 4 - 42.05 pidx: 12 0
+12 6 15
+vertices: 4 42.05 12 0
+12 6 15 21.02
+========================
+check between: 12 5
+CHECK: inf
+SDIST: 21.02
+i dedge: 5 - inf pidx: -1 0
+12 6 15
+vertices: 5 inf -1 0
+12 6 15 21.02
+========================
+check between: 12 7
+CHECK: 35.23
+SDIST: 21.02
+i dedge: 7 - 22.85 pidx: 1 0
+12 6 15
+vertices: 7 22.85 1 0
+12 6 15 21.02
+========================
+check between: 12 8
+CHECK: 53.14
+SDIST: 21.02
+i dedge: 8 - 42.44 pidx: 1 0
+12 6 15
+vertices: 8 42.44 1 0
+12 6 15 21.02
+========================
+check between: 12 9
+CHECK: 68.35
+SDIST: 21.02
+i dedge: 9 - 68.35 pidx: 12 0
+12 6 15
+vertices: 9 68.35 12 0
+12 6 15 21.02
+========================
+check between: 12 10
+CHECK: 20.81
+SDIST: 21.02
+i dedge: 10 - 20.81 pidx: 12 0
+12 6 15
+vertices: 10 20.81 12 0
+12 6 10 20.81
+========================
+check between: 12 11
+CHECK: 25.50
+SDIST: 20.81
+i dedge: 11 - 25.50 pidx: 12 0
+12 6 10
+vertices: 11 25.50 12 0
+12 6 10 20.81
+========================
+check between: 12 13
+CHECK: 51.62
+SDIST: 20.81
+i dedge: 13 - 23.43 pidx: 6 0
+12 6 10
+vertices: 13 23.43 6 0
+12 6 10 20.81
+========================
+check between: 12 14
+CHECK: 32.39
+SDIST: 20.81
+i dedge: 14 - 28.18 pidx: 15 0
+12 6 10
+vertices: 14 28.18 15 0
+12 6 10 20.81
+========================
+check between: 12 16
+CHECK: 17.80
+SDIST: 20.81
+i dedge: 16 - 17.80 pidx: 12 0
+12 6 10
+vertices: 16 17.80 12 0
+12 6 16 17.80
+========================
+check between: 12 17
+CHECK: inf
+SDIST: 17.80
+i dedge: 17 - inf pidx: -1 0
+12 6 16
+vertices: 17 inf -1 0
+12 6 16 17.80
+========================
+check between: 12 18
+CHECK: 75.17
+SDIST: 17.80
+i dedge: 18 - 75.17 pidx: 12 0
+12 6 16
+vertices: 18 75.17 12 0
+12 6 16 17.80
+========================
+check between: 12 19
+CHECK: inf
+SDIST: 17.80
+i dedge: 19 - inf pidx: -1 0
+12 6 16
+vertices: 19 inf -1 0
+12 6 16 17.80
+========================
+check between: 12 21
+CHECK: inf
+SDIST: 17.80
+i dedge: 21 - inf pidx: -1 0
+12 6 16
+vertices: 21 inf -1 0
+12 6 16 17.80
+========================
+check between: 12 22
+CHECK: inf
+SDIST: 17.80
+i dedge: 22 - inf pidx: -1 0
+12 6 16
+vertices: 22 inf -1 0
+12 6 16 17.80
+========================
+check between: 12 23
+CHECK: 76.03
+SDIST: 17.80
+i dedge: 23 - 76.03 pidx: 12 0
+12 6 16
+vertices: 23 76.03 12 0
+12 6 16 17.80
+========================
+check between: 12 24
+CHECK: 46.84
+SDIST: 17.80
+i dedge: 24 - 43.42 pidx: 15 0
+12 6 16
+vertices: 24 43.42 15 0
+12 6 16 17.80
+========================
+check between: 12 25
+CHECK: 42.01
+SDIST: 17.80
+i dedge: 25 - 42.01 pidx: 12 0
+12 6 16
+vertices: 25 42.01 12 0
+12 6 16 17.80
+========================
+check between: 12 26
+CHECK: 31.95
+SDIST: 17.80
+i dedge: 26 - 23.19 pidx: 15 0
+12 6 16
+vertices: 26 23.19 15 0
+12 6 16 17.80
+========================
+check between: 12 27
+CHECK: 18.60
+SDIST: 17.80
+i dedge: 27 - 18.60 pidx: 12 0
+12 6 16
+vertices: 27 18.60 12 0
+12 6 16 17.80
+========================
+check between: 12 28
+CHECK: 22.09
+SDIST: 17.80
+i dedge: 28 - 22.09 pidx: 12 0
+12 6 16
+vertices: 28 22.09 12 0
+12 6 16 17.80
+========================
+check between: 12 29
+CHECK: 39.22
+SDIST: 17.80
+i dedge: 29 - 30.41 pidx: 15 0
+12 6 16
+vertices: 29 30.41 15 0
+12 6 16 17.80
+first changes
+16 12 16 17.80
+verticescidx: 16 17.80 12 1
+[0, 1] [1, 1] [2, 0] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 0] [11, 0] [12, 1] [13, 0] [14, 0] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 16 2
+CHECK: 45.28
+SDIST: inf
+i dedge: 2 - 21.02 pidx: 15 0
+16 12 16
+vertices: 2 21.02 15 0
+16 12 15 21.02
+========================
+check between: 16 3
+CHECK: 60.54
+SDIST: 21.02
+i dedge: 3 - 60.88 pidx: 12 0
+16 12 15
+vertices: 3 60.54 16 0
+16 12 15 21.02
+========================
+check between: 16 4
+CHECK: 29.41
+SDIST: 21.02
+i dedge: 4 - 42.05 pidx: 12 0
+16 12 15
+vertices: 4 29.41 16 0
+16 12 15 21.02
+========================
+check between: 16 5
+CHECK: inf
+SDIST: 21.02
+i dedge: 5 - inf pidx: -1 0
+16 12 15
+vertices: 5 inf -1 0
+16 12 15 21.02
+========================
+check between: 16 7
+CHECK: 26.00
+SDIST: 21.02
+i dedge: 7 - 22.85 pidx: 1 0
+16 12 15
+vertices: 7 22.85 1 0
+16 12 15 21.02
+========================
+check between: 16 8
+CHECK: 39.20
+SDIST: 21.02
+i dedge: 8 - 42.44 pidx: 1 0
+16 12 15
+vertices: 8 39.20 16 0
+16 12 15 21.02
+========================
+check between: 16 9
+CHECK: 61.03
+SDIST: 21.02
+i dedge: 9 - 68.35 pidx: 12 0
+16 12 15
+vertices: 9 61.03 16 0
+16 12 15 21.02
+========================
+check between: 16 10
+CHECK: 3.16
+SDIST: 21.02
+i dedge: 10 - 20.81 pidx: 12 0
+16 12 15
+vertices: 10 3.16 16 0
+16 12 10 3.16
+========================
+check between: 16 11
+CHECK: 7.81
+SDIST: 3.16
+i dedge: 11 - 25.50 pidx: 12 0
+16 12 10
+vertices: 11 7.81 16 0
+16 12 10 3.16
+========================
+check between: 16 13
+CHECK: 45.65
+SDIST: 3.16
+i dedge: 13 - 23.43 pidx: 6 0
+16 12 10
+vertices: 13 23.43 6 0
+16 12 10 3.16
+========================
+check between: 16 14
+CHECK: 43.93
+SDIST: 3.16
+i dedge: 14 - 28.18 pidx: 15 0
+16 12 10
+vertices: 14 28.18 15 0
+16 12 10 3.16
+========================
+check between: 16 17
+CHECK: inf
+SDIST: 3.16
+i dedge: 17 - inf pidx: -1 0
+16 12 10
+vertices: 17 inf -1 0
+16 12 10 3.16
+========================
+check between: 16 18
+CHECK: 71.45
+SDIST: 3.16
+i dedge: 18 - 75.17 pidx: 12 0
+16 12 10
+vertices: 18 71.45 16 0
+16 12 10 3.16
+========================
+check between: 16 19
+CHECK: inf
+SDIST: 3.16
+i dedge: 19 - inf pidx: -1 0
+16 12 10
+vertices: 19 inf -1 0
+16 12 10 3.16
+========================
+check between: 16 21
+CHECK: inf
+SDIST: 3.16
+i dedge: 21 - inf pidx: -1 0
+16 12 10
+vertices: 21 inf -1 0
+16 12 10 3.16
+========================
+check between: 16 22
+CHECK: inf
+SDIST: 3.16
+i dedge: 22 - inf pidx: -1 0
+16 12 10
+vertices: 22 inf -1 0
+16 12 10 3.16
+========================
+check between: 16 23
+CHECK: 70.29
+SDIST: 3.16
+i dedge: 23 - 76.03 pidx: 12 0
+16 12 10
+vertices: 23 70.29 16 0
+16 12 10 3.16
+========================
+check between: 16 24
+CHECK: 56.01
+SDIST: 3.16
+i dedge: 24 - 43.42 pidx: 15 0
+16 12 10
+vertices: 24 43.42 15 0
+16 12 10 3.16
+========================
+check between: 16 25
+CHECK: 30.46
+SDIST: 3.16
+i dedge: 25 - 42.01 pidx: 12 0
+16 12 10
+vertices: 25 30.46 16 0
+16 12 10 3.16
+========================
+check between: 16 26
+CHECK: 48.02
+SDIST: 3.16
+i dedge: 26 - 23.19 pidx: 15 0
+16 12 10
+vertices: 26 23.19 15 0
+16 12 10 3.16
+========================
+check between: 16 27
+CHECK: 26.17
+SDIST: 3.16
+i dedge: 27 - 18.60 pidx: 12 0
+16 12 10
+vertices: 27 18.60 12 0
+16 12 10 3.16
+========================
+check between: 16 28
+CHECK: 12.04
+SDIST: 3.16
+i dedge: 28 - 22.09 pidx: 12 0
+16 12 10
+vertices: 28 12.04 16 0
+16 12 10 3.16
+========================
+check between: 16 29
+CHECK: 55.07
+SDIST: 3.16
+i dedge: 29 - 30.41 pidx: 15 0
+16 12 10
+vertices: 29 30.41 15 0
+16 12 10 3.16
+first changes
+10 16 10 3.16
+verticescidx: 10 3.16 16 1
+[0, 1] [1, 1] [2, 0] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 0] [12, 1] [13, 0] [14, 0] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 10 2
+CHECK: 47.71
+SDIST: inf
+i dedge: 2 - 21.02 pidx: 15 0
+10 16 10
+vertices: 2 21.02 15 0
+10 16 15 21.02
+========================
+check between: 10 3
+CHECK: 59.94
+SDIST: 21.02
+i dedge: 3 - 60.54 pidx: 16 0
+10 16 15
+vertices: 3 59.94 10 0
+10 16 15 21.02
+========================
+check between: 10 4
+CHECK: 26.93
+SDIST: 21.02
+i dedge: 4 - 29.41 pidx: 16 0
+10 16 15
+vertices: 4 26.93 10 0
+10 16 15 21.02
+========================
+check between: 10 5
+CHECK: inf
+SDIST: 21.02
+i dedge: 5 - inf pidx: -1 0
+10 16 15
+vertices: 5 inf -1 0
+10 16 15 21.02
+========================
+check between: 10 7
+CHECK: 26.42
+SDIST: 21.02
+i dedge: 7 - 22.85 pidx: 1 0
+10 16 15
+vertices: 7 22.85 1 0
+10 16 15 21.02
+========================
+check between: 10 8
+CHECK: 38.01
+SDIST: 21.02
+i dedge: 8 - 39.20 pidx: 16 0
+10 16 15
+vertices: 8 38.01 10 0
+10 16 15 21.02
+========================
+check between: 10 9
+CHECK: 59.20
+SDIST: 21.02
+i dedge: 9 - 61.03 pidx: 16 0
+10 16 15
+vertices: 9 59.20 10 0
+10 16 15 21.02
+========================
+check between: 10 11
+CHECK: 5.39
+SDIST: 21.02
+i dedge: 11 - 7.81 pidx: 16 0
+10 16 15
+vertices: 11 5.39 10 0
+10 16 11 5.39
+========================
+check between: 10 13
+CHECK: 46.32
+SDIST: 5.39
+i dedge: 13 - 23.43 pidx: 6 0
+10 16 11
+vertices: 13 23.43 6 0
+10 16 11 5.39
+========================
+check between: 10 14
+CHECK: 45.61
+SDIST: 5.39
+i dedge: 14 - 28.18 pidx: 15 0
+10 16 11
+vertices: 14 28.18 15 0
+10 16 11 5.39
+========================
+check between: 10 17
+CHECK: inf
+SDIST: 5.39
+i dedge: 17 - inf pidx: -1 0
+10 16 11
+vertices: 17 inf -1 0
+10 16 11 5.39
+========================
+check between: 10 18
+CHECK: 70.18
+SDIST: 5.39
+i dedge: 18 - 71.45 pidx: 16 0
+10 16 11
+vertices: 18 70.18 10 0
+10 16 11 5.39
+========================
+check between: 10 19
+CHECK: inf
+SDIST: 5.39
+i dedge: 19 - inf pidx: -1 0
+10 16 11
+vertices: 19 inf -1 0
+10 16 11 5.39
+========================
+check between: 10 21
+CHECK: inf
+SDIST: 5.39
+i dedge: 21 - inf pidx: -1 0
+10 16 11
+vertices: 21 inf -1 0
+10 16 11 5.39
+========================
+check between: 10 22
+CHECK: inf
+SDIST: 5.39
+i dedge: 22 - inf pidx: -1 0
+10 16 11
+vertices: 22 inf -1 0
+10 16 11 5.39
+========================
+check between: 10 23
+CHECK: 68.68
+SDIST: 5.39
+i dedge: 23 - 70.29 pidx: 16 0
+10 16 11
+vertices: 23 68.68 10 0
+10 16 11 5.39
+========================
+check between: 10 24
+CHECK: 57.14
+SDIST: 5.39
+i dedge: 24 - 43.42 pidx: 15 0
+10 16 11
+vertices: 24 43.42 15 0
+10 16 11 5.39
+========================
+check between: 10 25
+CHECK: 28.18
+SDIST: 5.39
+i dedge: 25 - 30.46 pidx: 16 0
+10 16 11
+vertices: 25 28.18 10 0
+10 16 11 5.39
+========================
+check between: 10 26
+CHECK: 50.48
+SDIST: 5.39
+i dedge: 26 - 23.19 pidx: 15 0
+10 16 11
+vertices: 26 23.19 15 0
+10 16 11 5.39
+========================
+check between: 10 27
+CHECK: 27.66
+SDIST: 5.39
+i dedge: 27 - 18.60 pidx: 12 0
+10 16 11
+vertices: 27 18.60 12 0
+10 16 11 5.39
+========================
+check between: 10 28
+CHECK: 11.18
+SDIST: 5.39
+i dedge: 28 - 12.04 pidx: 16 0
+10 16 11
+vertices: 28 11.18 10 0
+10 16 11 5.39
+========================
+check between: 10 29
+CHECK: 57.45
+SDIST: 5.39
+i dedge: 29 - 30.41 pidx: 15 0
+10 16 11
+vertices: 29 30.41 15 0
+10 16 11 5.39
+first changes
+11 10 11 5.39
+verticescidx: 11 5.39 10 1
+[0, 1] [1, 1] [2, 0] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 0] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 11 2
+CHECK: 53.00
+SDIST: inf
+i dedge: 2 - 21.02 pidx: 15 0
+11 10 11
+vertices: 2 21.02 15 0
+11 10 15 21.02
+========================
+check between: 11 3
+CHECK: 63.56
+SDIST: 21.02
+i dedge: 3 - 59.94 pidx: 10 0
+11 10 15
+vertices: 3 59.94 10 0
+11 10 15 21.02
+========================
+check between: 11 4
+CHECK: 27.46
+SDIST: 21.02
+i dedge: 4 - 26.93 pidx: 10 0
+11 10 15
+vertices: 4 26.93 10 0
+11 10 15 21.02
+========================
+check between: 11 5
+CHECK: 44.78
+SDIST: 21.02
+i dedge: 5 - inf pidx: -1 0
+11 10 15
+vertices: 5 44.78 11 0
+11 10 15 21.02
+========================
+check between: 11 7
+CHECK: 23.43
+SDIST: 21.02
+i dedge: 7 - 22.85 pidx: 1 0
+11 10 15
+vertices: 7 22.85 1 0
+11 10 15 21.02
+========================
+check between: 11 8
+CHECK: 33.02
+SDIST: 21.02
+i dedge: 8 - 38.01 pidx: 10 0
+11 10 15
+vertices: 8 33.02 11 0
+11 10 15 21.02
+========================
+check between: 11 9
+CHECK: 60.88
+SDIST: 21.02
+i dedge: 9 - 59.20 pidx: 10 0
+11 10 15
+vertices: 9 59.20 10 0
+11 10 15 21.02
+========================
+check between: 11 13
+CHECK: 43.42
+SDIST: 21.02
+i dedge: 13 - 23.43 pidx: 6 0
+11 10 15
+vertices: 13 23.43 6 0
+11 10 15 21.02
+========================
+check between: 11 14
+CHECK: 50.96
+SDIST: 21.02
+i dedge: 14 - 28.18 pidx: 15 0
+11 10 15
+vertices: 14 28.18 15 0
+11 10 15 21.02
+========================
+check between: 11 17
+CHECK: 41.77
+SDIST: 21.02
+i dedge: 17 - inf pidx: -1 0
+11 10 15
+vertices: 17 41.77 11 0
+11 10 15 21.02
+========================
+check between: 11 18
+CHECK: 72.80
+SDIST: 21.02
+i dedge: 18 - 70.18 pidx: 10 0
+11 10 15
+vertices: 18 70.18 10 0
+11 10 15 21.02
+========================
+check between: 11 19
+CHECK: 20.59
+SDIST: 21.02
+i dedge: 19 - inf pidx: -1 0
+11 10 15
+vertices: 19 20.59 11 0
+11 10 19 20.59
+========================
+check between: 11 21
+CHECK: 26.25
+SDIST: 20.59
+i dedge: 21 - inf pidx: -1 0
+11 10 19
+vertices: 21 26.25 11 0
+11 10 19 20.59
+========================
+check between: 11 22
+CHECK: 45.34
+SDIST: 20.59
+i dedge: 22 - inf pidx: -1 0
+11 10 19
+vertices: 22 45.34 11 0
+11 10 19 20.59
+========================
+check between: 11 23
+CHECK: 70.72
+SDIST: 20.59
+i dedge: 23 - 68.68 pidx: 10 0
+11 10 19
+vertices: 23 68.68 10 0
+11 10 19 20.59
+========================
+check between: 11 24
+CHECK: 62.29
+SDIST: 20.59
+i dedge: 24 - 43.42 pidx: 15 0
+11 10 19
+vertices: 24 43.42 15 0
+11 10 19 20.59
+========================
+check between: 11 25
+CHECK: 29.21
+SDIST: 20.59
+i dedge: 25 - 28.18 pidx: 10 0
+11 10 19
+vertices: 25 28.18 10 0
+11 10 19 20.59
+========================
+check between: 11 26
+CHECK: 55.76
+SDIST: 20.59
+i dedge: 26 - 23.19 pidx: 15 0
+11 10 19
+vertices: 26 23.19 15 0
+11 10 19 20.59
+========================
+check between: 11 27
+CHECK: 32.98
+SDIST: 20.59
+i dedge: 27 - 18.60 pidx: 12 0
+11 10 19
+vertices: 27 18.60 12 0
+11 10 12 18.60
+========================
+check between: 11 28
+CHECK: 15.30
+SDIST: 18.60
+i dedge: 28 - 11.18 pidx: 10 0
+11 10 12
+vertices: 28 11.18 10 0
+11 10 10 11.18
+========================
+check between: 11 29
+CHECK: 62.77
+SDIST: 11.18
+i dedge: 29 - 30.41 pidx: 15 0
+11 10 10
+vertices: 29 30.41 15 0
+11 10 10 11.18
+first changes
+10 11 10 11.18
+verticescidx: 10 3.16 16 1
+[0, 1] [1, 1] [2, 0] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 0] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 0] [29, 0] 
+========================
+check between: 10 2
+CHECK: 47.71
+SDIST: inf
+i dedge: 2 - 21.02 pidx: 15 0
+10 11 10
+vertices: 2 21.02 15 0
+10 11 15 21.02
+========================
+check between: 10 3
+CHECK: 59.94
+SDIST: 21.02
+i dedge: 3 - 59.94 pidx: 10 0
+10 11 15
+vertices: 3 59.94 10 0
+10 11 15 21.02
+========================
+check between: 10 4
+CHECK: 26.93
+SDIST: 21.02
+i dedge: 4 - 26.93 pidx: 10 0
+10 11 15
+vertices: 4 26.93 10 0
+10 11 15 21.02
+========================
+check between: 10 5
+CHECK: inf
+SDIST: 21.02
+i dedge: 5 - 44.78 pidx: 11 0
+10 11 15
+vertices: 5 44.78 11 0
+10 11 15 21.02
+========================
+check between: 10 7
+CHECK: 26.42
+SDIST: 21.02
+i dedge: 7 - 22.85 pidx: 1 0
+10 11 15
+vertices: 7 22.85 1 0
+10 11 15 21.02
+========================
+check between: 10 8
+CHECK: 38.01
+SDIST: 21.02
+i dedge: 8 - 33.02 pidx: 11 0
+10 11 15
+vertices: 8 33.02 11 0
+10 11 15 21.02
+========================
+check between: 10 9
+CHECK: 59.20
+SDIST: 21.02
+i dedge: 9 - 59.20 pidx: 10 0
+10 11 15
+vertices: 9 59.20 10 0
+10 11 15 21.02
+========================
+check between: 10 13
+CHECK: 46.32
+SDIST: 21.02
+i dedge: 13 - 23.43 pidx: 6 0
+10 11 15
+vertices: 13 23.43 6 0
+10 11 15 21.02
+========================
+check between: 10 14
+CHECK: 45.61
+SDIST: 21.02
+i dedge: 14 - 28.18 pidx: 15 0
+10 11 15
+vertices: 14 28.18 15 0
+10 11 15 21.02
+========================
+check between: 10 17
+CHECK: inf
+SDIST: 21.02
+i dedge: 17 - 41.77 pidx: 11 0
+10 11 15
+vertices: 17 41.77 11 0
+10 11 15 21.02
+========================
+check between: 10 18
+CHECK: 70.18
+SDIST: 21.02
+i dedge: 18 - 70.18 pidx: 10 0
+10 11 15
+vertices: 18 70.18 10 0
+10 11 15 21.02
+========================
+check between: 10 19
+CHECK: inf
+SDIST: 21.02
+i dedge: 19 - 20.59 pidx: 11 0
+10 11 15
+vertices: 19 20.59 11 0
+10 11 11 20.59
+========================
+check between: 10 21
+CHECK: inf
+SDIST: 20.59
+i dedge: 21 - 26.25 pidx: 11 0
+10 11 11
+vertices: 21 26.25 11 0
+10 11 11 20.59
+========================
+check between: 10 22
+CHECK: inf
+SDIST: 20.59
+i dedge: 22 - 45.34 pidx: 11 0
+10 11 11
+vertices: 22 45.34 11 0
+10 11 11 20.59
+========================
+check between: 10 23
+CHECK: 68.68
+SDIST: 20.59
+i dedge: 23 - 68.68 pidx: 10 0
+10 11 11
+vertices: 23 68.68 10 0
+10 11 11 20.59
+========================
+check between: 10 24
+CHECK: 57.14
+SDIST: 20.59
+i dedge: 24 - 43.42 pidx: 15 0
+10 11 11
+vertices: 24 43.42 15 0
+10 11 11 20.59
+========================
+check between: 10 25
+CHECK: 28.18
+SDIST: 20.59
+i dedge: 25 - 28.18 pidx: 10 0
+10 11 11
+vertices: 25 28.18 10 0
+10 11 11 20.59
+========================
+check between: 10 26
+CHECK: 50.48
+SDIST: 20.59
+i dedge: 26 - 23.19 pidx: 15 0
+10 11 11
+vertices: 26 23.19 15 0
+10 11 11 20.59
+========================
+check between: 10 27
+CHECK: 27.66
+SDIST: 20.59
+i dedge: 27 - 18.60 pidx: 12 0
+10 11 11
+vertices: 27 18.60 12 0
+10 11 12 18.60
+========================
+check between: 10 28
+CHECK: 11.18
+SDIST: 18.60
+i dedge: 28 - 11.18 pidx: 10 0
+10 11 12
+vertices: 28 11.18 10 0
+10 11 28 11.18
+========================
+check between: 10 29
+CHECK: 57.45
+SDIST: 11.18
+i dedge: 29 - 30.41 pidx: 15 0
+10 11 28
+vertices: 29 30.41 15 0
+10 11 28 11.18
+first changes
+28 10 28 11.18
+verticescidx: 28 11.18 10 1
+[0, 1] [1, 1] [2, 0] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 0] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 1] [29, 0] 
+========================
+check between: 28 2
+CHECK: 43.14
+SDIST: inf
+i dedge: 2 - 21.02 pidx: 15 0
+28 10 28
+vertices: 2 21.02 15 0
+28 10 15 21.02
+========================
+check between: 28 3
+CHECK: 48.76
+SDIST: 21.02
+i dedge: 3 - 59.94 pidx: 10 0
+28 10 15
+vertices: 3 48.76 28 0
+28 10 15 21.02
+========================
+check between: 28 4
+CHECK: 20.00
+SDIST: 21.02
+i dedge: 4 - 26.93 pidx: 10 0
+28 10 15
+vertices: 4 20.00 28 0
+28 10 4 20.00
+========================
+check between: 28 5
+CHECK: 50.33
+SDIST: 20.00
+i dedge: 5 - 44.78 pidx: 11 0
+28 10 4
+vertices: 5 44.78 11 0
+28 10 4 20.00
+========================
+check between: 28 7
+CHECK: 37.59
+SDIST: 20.00
+i dedge: 7 - 22.85 pidx: 1 0
+28 10 4
+vertices: 7 22.85 1 0
+28 10 4 20.00
+========================
+check between: 28 8
+CHECK: 48.17
+SDIST: 20.00
+i dedge: 8 - 33.02 pidx: 11 0
+28 10 4
+vertices: 8 33.02 11 0
+28 10 4 20.00
+========================
+check between: 28 9
+CHECK: 49.40
+SDIST: 20.00
+i dedge: 9 - 59.20 pidx: 10 0
+28 10 4
+vertices: 9 49.40 28 0
+28 10 4 20.00
+========================
+check between: 28 13
+CHECK: 57.45
+SDIST: 20.00
+i dedge: 13 - 23.43 pidx: 6 0
+28 10 4
+vertices: 13 23.43 6 0
+28 10 4 20.00
+========================
+check between: 28 14
+CHECK: 38.01
+SDIST: 20.00
+i dedge: 14 - 28.18 pidx: 15 0
+28 10 4
+vertices: 14 28.18 15 0
+28 10 4 20.00
+========================
+check between: 28 17
+CHECK: 44.42
+SDIST: 20.00
+i dedge: 17 - 41.77 pidx: 11 0
+28 10 4
+vertices: 17 41.77 11 0
+28 10 4 20.00
+========================
+check between: 28 18
+CHECK: 59.41
+SDIST: 20.00
+i dedge: 18 - 70.18 pidx: 10 0
+28 10 4
+vertices: 18 59.41 28 0
+28 10 4 20.00
+========================
+check between: 28 19
+CHECK: 33.73
+SDIST: 20.00
+i dedge: 19 - 20.59 pidx: 11 0
+28 10 4
+vertices: 19 20.59 11 0
+28 10 4 20.00
+========================
+check between: 28 21
+CHECK: 36.24
+SDIST: 20.00
+i dedge: 21 - 26.25 pidx: 11 0
+28 10 4
+vertices: 21 26.25 11 0
+28 10 4 20.00
+========================
+check between: 28 22
+CHECK: 54.64
+SDIST: 20.00
+i dedge: 22 - 45.34 pidx: 11 0
+28 10 4
+vertices: 22 45.34 11 0
+28 10 4 20.00
+========================
+check between: 28 23
+CHECK: 58.41
+SDIST: 20.00
+i dedge: 23 - 68.68 pidx: 10 0
+28 10 4
+vertices: 23 58.41 28 0
+28 10 4 20.00
+========================
+check between: 28 24
+CHECK: 47.85
+SDIST: 20.00
+i dedge: 24 - 43.42 pidx: 15 0
+28 10 4
+vertices: 24 43.42 15 0
+28 10 4 20.00
+========================
+check between: 28 25
+CHECK: 20.22
+SDIST: 20.00
+i dedge: 25 - 28.18 pidx: 10 0
+28 10 4
+vertices: 25 20.22 28 0
+28 10 4 20.00
+========================
+check between: 28 26
+CHECK: 45.97
+SDIST: 20.00
+i dedge: 26 - 23.19 pidx: 15 0
+28 10 4
+vertices: 26 23.19 15 0
+28 10 4 20.00
+========================
+check between: 28 27
+CHECK: 20.25
+SDIST: 20.00
+i dedge: 27 - 18.60 pidx: 12 0
+28 10 4
+vertices: 27 18.60 12 0
+28 10 12 18.60
+========================
+check between: 28 29
+CHECK: 52.40
+SDIST: 18.60
+i dedge: 29 - 30.41 pidx: 15 0
+28 10 12
+vertices: 29 30.41 15 0
+28 10 12 18.60
+first changes
+12 28 12 18.60
+verticescidx: 12 10.63 15 1
+[0, 1] [1, 1] [2, 0] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 0] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 0] [28, 1] [29, 0] 
+========================
+check between: 12 2
+CHECK: 29.41
+SDIST: inf
+i dedge: 2 - 21.02 pidx: 15 0
+12 28 12
+vertices: 2 21.02 15 0
+12 28 15 21.02
+========================
+check between: 12 3
+CHECK: 60.88
+SDIST: 21.02
+i dedge: 3 - 48.76 pidx: 28 0
+12 28 15
+vertices: 3 48.76 28 0
+12 28 15 21.02
+========================
+check between: 12 4
+CHECK: 42.05
+SDIST: 21.02
+i dedge: 4 - 20.00 pidx: 28 0
+12 28 15
+vertices: 4 20.00 28 0
+12 28 28 20.00
+========================
+check between: 12 5
+CHECK: inf
+SDIST: 20.00
+i dedge: 5 - 44.78 pidx: 11 0
+12 28 28
+vertices: 5 44.78 11 0
+12 28 28 20.00
+========================
+check between: 12 7
+CHECK: 35.23
+SDIST: 20.00
+i dedge: 7 - 22.85 pidx: 1 0
+12 28 28
+vertices: 7 22.85 1 0
+12 28 28 20.00
+========================
+check between: 12 8
+CHECK: 53.14
+SDIST: 20.00
+i dedge: 8 - 33.02 pidx: 11 0
+12 28 28
+vertices: 8 33.02 11 0
+12 28 28 20.00
+========================
+check between: 12 9
+CHECK: 68.35
+SDIST: 20.00
+i dedge: 9 - 49.40 pidx: 28 0
+12 28 28
+vertices: 9 49.40 28 0
+12 28 28 20.00
+========================
+check between: 12 13
+CHECK: 51.62
+SDIST: 20.00
+i dedge: 13 - 23.43 pidx: 6 0
+12 28 28
+vertices: 13 23.43 6 0
+12 28 28 20.00
+========================
+check between: 12 14
+CHECK: 32.39
+SDIST: 20.00
+i dedge: 14 - 28.18 pidx: 15 0
+12 28 28
+vertices: 14 28.18 15 0
+12 28 28 20.00
+========================
+check between: 12 17
+CHECK: inf
+SDIST: 20.00
+i dedge: 17 - 41.77 pidx: 11 0
+12 28 28
+vertices: 17 41.77 11 0
+12 28 28 20.00
+========================
+check between: 12 18
+CHECK: 75.17
+SDIST: 20.00
+i dedge: 18 - 59.41 pidx: 28 0
+12 28 28
+vertices: 18 59.41 28 0
+12 28 28 20.00
+========================
+check between: 12 19
+CHECK: inf
+SDIST: 20.00
+i dedge: 19 - 20.59 pidx: 11 0
+12 28 28
+vertices: 19 20.59 11 0
+12 28 28 20.00
+========================
+check between: 12 21
+CHECK: inf
+SDIST: 20.00
+i dedge: 21 - 26.25 pidx: 11 0
+12 28 28
+vertices: 21 26.25 11 0
+12 28 28 20.00
+========================
+check between: 12 22
+CHECK: inf
+SDIST: 20.00
+i dedge: 22 - 45.34 pidx: 11 0
+12 28 28
+vertices: 22 45.34 11 0
+12 28 28 20.00
+========================
+check between: 12 23
+CHECK: 76.03
+SDIST: 20.00
+i dedge: 23 - 58.41 pidx: 28 0
+12 28 28
+vertices: 23 58.41 28 0
+12 28 28 20.00
+========================
+check between: 12 24
+CHECK: 46.84
+SDIST: 20.00
+i dedge: 24 - 43.42 pidx: 15 0
+12 28 28
+vertices: 24 43.42 15 0
+12 28 28 20.00
+========================
+check between: 12 25
+CHECK: 42.01
+SDIST: 20.00
+i dedge: 25 - 20.22 pidx: 28 0
+12 28 28
+vertices: 25 20.22 28 0
+12 28 28 20.00
+========================
+check between: 12 26
+CHECK: 31.95
+SDIST: 20.00
+i dedge: 26 - 23.19 pidx: 15 0
+12 28 28
+vertices: 26 23.19 15 0
+12 28 28 20.00
+========================
+check between: 12 27
+CHECK: 18.60
+SDIST: 20.00
+i dedge: 27 - 18.60 pidx: 12 0
+12 28 28
+vertices: 27 18.60 12 0
+12 28 27 18.60
+========================
+check between: 12 29
+CHECK: 39.22
+SDIST: 18.60
+i dedge: 29 - 30.41 pidx: 15 0
+12 28 27
+vertices: 29 30.41 15 0
+12 28 27 18.60
+first changes
+27 12 27 18.60
+verticescidx: 27 18.60 12 1
+[0, 1] [1, 1] [2, 0] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 0] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 1] [28, 1] [29, 0] 
+========================
+check between: 27 2
+CHECK: 23.85
+SDIST: inf
+i dedge: 2 - 21.02 pidx: 15 0
+27 12 27
+vertices: 2 21.02 15 0
+27 12 15 21.02
+========================
+check between: 27 3
+CHECK: 42.80
+SDIST: 21.02
+i dedge: 3 - 48.76 pidx: 28 0
+27 12 15
+vertices: 3 42.80 27 0
+27 12 15 21.02
+========================
+check between: 27 4
+CHECK: 35.36
+SDIST: 21.02
+i dedge: 4 - 20.00 pidx: 28 0
+27 12 15
+vertices: 4 20.00 28 0
+27 12 28 20.00
+========================
+check between: 27 5
+CHECK: inf
+SDIST: 20.00
+i dedge: 5 - 44.78 pidx: 11 0
+27 12 28
+vertices: 5 44.78 11 0
+27 12 28 20.00
+========================
+check between: 27 7
+CHECK: 50.49
+SDIST: 20.00
+i dedge: 7 - 22.85 pidx: 1 0
+27 12 28
+vertices: 7 22.85 1 0
+27 12 28 20.00
+========================
+check between: 27 8
+CHECK: 65.38
+SDIST: 20.00
+i dedge: 8 - 33.02 pidx: 11 0
+27 12 28
+vertices: 8 33.02 11 0
+27 12 28 20.00
+========================
+check between: 27 9
+CHECK: 53.76
+SDIST: 20.00
+i dedge: 9 - 49.40 pidx: 28 0
+27 12 28
+vertices: 9 49.40 28 0
+27 12 28 20.00
+========================
+check between: 27 13
+CHECK: 68.68
+SDIST: 20.00
+i dedge: 13 - 23.43 pidx: 6 0
+27 12 28
+vertices: 13 23.43 6 0
+27 12 28 20.00
+========================
+check between: 27 14
+CHECK: 18.03
+SDIST: 20.00
+i dedge: 14 - 28.18 pidx: 15 0
+27 12 28
+vertices: 14 18.03 27 0
+27 12 14 18.03
+========================
+check between: 27 17
+CHECK: inf
+SDIST: 18.03
+i dedge: 17 - 41.77 pidx: 11 0
+27 12 14
+vertices: 17 41.77 11 0
+27 12 14 18.03
+========================
+check between: 27 18
+CHECK: 58.14
+SDIST: 18.03
+i dedge: 18 - 59.41 pidx: 28 0
+27 12 14
+vertices: 18 58.14 27 0
+27 12 14 18.03
+========================
+check between: 27 19
+CHECK: inf
+SDIST: 18.03
+i dedge: 19 - 20.59 pidx: 11 0
+27 12 14
+vertices: 19 20.59 11 0
+27 12 14 18.03
+========================
+check between: 27 21
+CHECK: inf
+SDIST: 18.03
+i dedge: 21 - 26.25 pidx: 11 0
+27 12 14
+vertices: 21 26.25 11 0
+27 12 14 18.03
+========================
+check between: 27 22
+CHECK: inf
+SDIST: 18.03
+i dedge: 22 - 45.34 pidx: 11 0
+27 12 14
+vertices: 22 45.34 11 0
+27 12 14 18.03
+========================
+check between: 27 23
+CHECK: 60.08
+SDIST: 18.03
+i dedge: 23 - 58.41 pidx: 28 0
+27 12 14
+vertices: 23 58.41 28 0
+27 12 14 18.03
+========================
+check between: 27 24
+CHECK: 30.07
+SDIST: 18.03
+i dedge: 24 - 43.42 pidx: 15 0
+27 12 14
+vertices: 24 30.07 27 0
+27 12 14 18.03
+========================
+check between: 27 25
+CHECK: 34.01
+SDIST: 18.03
+i dedge: 25 - 20.22 pidx: 28 0
+27 12 14
+vertices: 25 20.22 28 0
+27 12 14 18.03
+========================
+check between: 27 26
+CHECK: 26.63
+SDIST: 18.03
+i dedge: 26 - 23.19 pidx: 15 0
+27 12 14
+vertices: 26 23.19 15 0
+27 12 14 18.03
+========================
+check between: 27 29
+CHECK: 32.56
+SDIST: 18.03
+i dedge: 29 - 30.41 pidx: 15 0
+27 12 14
+vertices: 29 30.41 15 0
+27 12 14 18.03
+first changes
+14 27 14 18.03
+verticescidx: 14 18.03 27 1
+[0, 1] [1, 1] [2, 0] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 1] [28, 1] [29, 0] 
+========================
+check between: 14 2
+CHECK: 14.56
+SDIST: inf
+i dedge: 2 - 21.02 pidx: 15 0
+14 27 14
+vertices: 2 14.56 14 0
+14 27 2 14.56
+========================
+check between: 14 3
+CHECK: 41.00
+SDIST: 14.56
+i dedge: 3 - 42.80 pidx: 27 0
+14 27 2
+vertices: 3 41.00 14 0
+14 27 2 14.56
+========================
+check between: 14 4
+CHECK: 50.25
+SDIST: 14.56
+i dedge: 4 - 20.00 pidx: 28 0
+14 27 2
+vertices: 4 20.00 28 0
+14 27 2 14.56
+========================
+check between: 14 5
+CHECK: inf
+SDIST: 14.56
+i dedge: 5 - 44.78 pidx: 11 0
+14 27 2
+vertices: 5 44.78 11 0
+14 27 2 14.56
+========================
+check between: 14 7
+CHECK: 67.01
+SDIST: 14.56
+i dedge: 7 - 22.85 pidx: 1 0
+14 27 2
+vertices: 7 22.85 1 0
+14 27 2 14.56
+========================
+check between: 14 8
+CHECK: 83.02
+SDIST: 14.56
+i dedge: 8 - 33.02 pidx: 11 0
+14 27 2
+vertices: 8 33.02 11 0
+14 27 2 14.56
+========================
+check between: 14 9
+CHECK: 59.54
+SDIST: 14.56
+i dedge: 9 - 49.40 pidx: 28 0
+14 27 2
+vertices: 9 49.40 28 0
+14 27 2 14.56
+========================
+check between: 14 13
+CHECK: 84.01
+SDIST: 14.56
+i dedge: 13 - 23.43 pidx: 6 0
+14 27 2
+vertices: 13 23.43 6 0
+14 27 2 14.56
+========================
+check between: 14 17
+CHECK: inf
+SDIST: 14.56
+i dedge: 17 - 41.77 pidx: 11 0
+14 27 2
+vertices: 17 41.77 11 0
+14 27 2 14.56
+========================
+check between: 14 18
+CHECK: 58.69
+SDIST: 14.56
+i dedge: 18 - 58.14 pidx: 27 0
+14 27 2
+vertices: 18 58.14 27 0
+14 27 2 14.56
+========================
+check between: 14 19
+CHECK: inf
+SDIST: 14.56
+i dedge: 19 - 20.59 pidx: 11 0
+14 27 2
+vertices: 19 20.59 11 0
+14 27 2 14.56
+========================
+check between: 14 21
+CHECK: inf
+SDIST: 14.56
+i dedge: 21 - 26.25 pidx: 11 0
+14 27 2
+vertices: 21 26.25 11 0
+14 27 2 14.56
+========================
+check between: 14 22
+CHECK: inf
+SDIST: 14.56
+i dedge: 22 - 45.34 pidx: 11 0
+14 27 2
+vertices: 22 45.34 11 0
+14 27 2 14.56
+========================
+check between: 14 23
+CHECK: 63.03
+SDIST: 14.56
+i dedge: 23 - 58.41 pidx: 28 0
+14 27 2
+vertices: 23 58.41 28 0
+14 27 2 14.56
+========================
+check between: 14 24
+CHECK: 15.26
+SDIST: 14.56
+i dedge: 24 - 30.07 pidx: 27 0
+14 27 2
+vertices: 24 15.26 14 0
+14 27 2 14.56
+========================
+check between: 14 25
+CHECK: 48.27
+SDIST: 14.56
+i dedge: 25 - 20.22 pidx: 28 0
+14 27 2
+vertices: 25 20.22 28 0
+14 27 2 14.56
+========================
+check between: 14 26
+CHECK: 16.12
+SDIST: 14.56
+i dedge: 26 - 23.19 pidx: 15 0
+14 27 2
+vertices: 26 16.12 14 0
+14 27 2 14.56
+========================
+check between: 14 29
+CHECK: 18.68
+SDIST: 14.56
+i dedge: 29 - 30.41 pidx: 15 0
+14 27 2
+vertices: 29 18.68 14 0
+14 27 2 14.56
+first changes
+2 14 2 14.56
+verticescidx: 2 14.56 14 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 0] [27, 1] [28, 1] [29, 0] 
+========================
+check between: 2 3
+CHECK: 55.54
+SDIST: inf
+i dedge: 3 - 41.00 pidx: 14 0
+2 14 2
+vertices: 3 41.00 14 0
+2 14 14 41.00
+========================
+check between: 2 4
+CHECK: 59.17
+SDIST: 41.00
+i dedge: 4 - 20.00 pidx: 28 0
+2 14 14
+vertices: 4 20.00 28 0
+2 14 28 20.00
+========================
+check between: 2 5
+CHECK: inf
+SDIST: 20.00
+i dedge: 5 - 44.78 pidx: 11 0
+2 14 28
+vertices: 5 44.78 11 0
+2 14 28 20.00
+========================
+check between: 2 7
+CHECK: 64.33
+SDIST: 20.00
+i dedge: 7 - 22.85 pidx: 1 0
+2 14 28
+vertices: 7 22.85 1 0
+2 14 28 20.00
+========================
+check between: 2 8
+CHECK: 82.54
+SDIST: 20.00
+i dedge: 8 - 33.02 pidx: 11 0
+2 14 28
+vertices: 8 33.02 11 0
+2 14 28 20.00
+========================
+check between: 2 9
+CHECK: 73.11
+SDIST: 20.00
+i dedge: 9 - 49.40 pidx: 28 0
+2 14 28
+vertices: 9 49.40 28 0
+2 14 28 20.00
+========================
+check between: 2 13
+CHECK: 79.01
+SDIST: 20.00
+i dedge: 13 - 23.43 pidx: 6 0
+2 14 28
+vertices: 13 23.43 6 0
+2 14 28 20.00
+========================
+check between: 2 17
+CHECK: inf
+SDIST: 20.00
+i dedge: 17 - 41.77 pidx: 11 0
+2 14 28
+vertices: 17 41.77 11 0
+2 14 28 20.00
+========================
+check between: 2 18
+CHECK: 73.16
+SDIST: 20.00
+i dedge: 18 - 58.14 pidx: 27 0
+2 14 28
+vertices: 18 58.14 27 0
+2 14 28 20.00
+========================
+check between: 2 19
+CHECK: inf
+SDIST: 20.00
+i dedge: 19 - 20.59 pidx: 11 0
+2 14 28
+vertices: 19 20.59 11 0
+2 14 28 20.00
+========================
+check between: 2 21
+CHECK: inf
+SDIST: 20.00
+i dedge: 21 - 26.25 pidx: 11 0
+2 14 28
+vertices: 21 26.25 11 0
+2 14 28 20.00
+========================
+check between: 2 22
+CHECK: inf
+SDIST: 20.00
+i dedge: 22 - 45.34 pidx: 11 0
+2 14 28
+vertices: 22 45.34 11 0
+2 14 28 20.00
+========================
+check between: 2 23
+CHECK: 77.23
+SDIST: 20.00
+i dedge: 23 - 58.41 pidx: 28 0
+2 14 28
+vertices: 23 58.41 28 0
+2 14 28 20.00
+========================
+check between: 2 24
+CHECK: 27.80
+SDIST: 20.00
+i dedge: 24 - 15.26 pidx: 14 0
+2 14 28
+vertices: 24 15.26 14 0
+2 14 14 15.26
+========================
+check between: 2 25
+CHECK: 57.71
+SDIST: 15.26
+i dedge: 25 - 20.22 pidx: 28 0
+2 14 14
+vertices: 25 20.22 28 0
+2 14 14 15.26
+========================
+check between: 2 26
+CHECK: 2.83
+SDIST: 15.26
+i dedge: 26 - 16.12 pidx: 14 0
+2 14 14
+vertices: 26 2.83 2 0
+2 14 26 2.83
+========================
+check between: 2 29
+CHECK: 9.85
+SDIST: 2.83
+i dedge: 29 - 18.68 pidx: 14 0
+2 14 26
+vertices: 29 9.85 2 0
+2 14 26 2.83
+first changes
+26 2 26 2.83
+verticescidx: 26 2.83 2 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 1] [27, 1] [28, 1] [29, 0] 
+========================
+check between: 26 3
+CHECK: 57.07
+SDIST: inf
+i dedge: 3 - 41.00 pidx: 14 0
+26 2 26
+vertices: 3 41.00 14 0
+26 2 14 41.00
+========================
+check between: 26 4
+CHECK: 61.91
+SDIST: 41.00
+i dedge: 4 - 20.00 pidx: 28 0
+26 2 14
+vertices: 4 20.00 28 0
+26 2 28 20.00
+========================
+check between: 26 5
+CHECK: inf
+SDIST: 20.00
+i dedge: 5 - 44.78 pidx: 11 0
+26 2 28
+vertices: 5 44.78 11 0
+26 2 28 20.00
+========================
+check between: 26 7
+CHECK: 66.71
+SDIST: 20.00
+i dedge: 7 - 22.85 pidx: 1 0
+26 2 28
+vertices: 7 22.85 1 0
+26 2 28 20.00
+========================
+check between: 26 8
+CHECK: 85.09
+SDIST: 20.00
+i dedge: 8 - 33.02 pidx: 11 0
+26 2 28
+vertices: 8 33.02 11 0
+26 2 28 20.00
+========================
+check between: 26 9
+CHECK: 75.24
+SDIST: 20.00
+i dedge: 9 - 49.40 pidx: 28 0
+26 2 28
+vertices: 9 49.40 28 0
+26 2 28 20.00
+========================
+check between: 26 13
+CHECK: 81.06
+SDIST: 20.00
+i dedge: 13 - 23.43 pidx: 6 0
+26 2 28
+vertices: 13 23.43 6 0
+26 2 28 20.00
+========================
+check between: 26 17
+CHECK: inf
+SDIST: 20.00
+i dedge: 17 - 41.77 pidx: 11 0
+26 2 28
+vertices: 17 41.77 11 0
+26 2 28 20.00
+========================
+check between: 26 18
+CHECK: 74.81
+SDIST: 20.00
+i dedge: 18 - 58.14 pidx: 27 0
+26 2 28
+vertices: 18 58.14 27 0
+26 2 28 20.00
+========================
+check between: 26 19
+CHECK: inf
+SDIST: 20.00
+i dedge: 19 - 20.59 pidx: 11 0
+26 2 28
+vertices: 19 20.59 11 0
+26 2 28 20.00
+========================
+check between: 26 21
+CHECK: inf
+SDIST: 20.00
+i dedge: 21 - 26.25 pidx: 11 0
+26 2 28
+vertices: 21 26.25 11 0
+26 2 28 20.00
+========================
+check between: 26 22
+CHECK: inf
+SDIST: 20.00
+i dedge: 22 - 45.34 pidx: 11 0
+26 2 28
+vertices: 22 45.34 11 0
+26 2 28 20.00
+========================
+check between: 26 23
+CHECK: 79.10
+SDIST: 20.00
+i dedge: 23 - 58.41 pidx: 28 0
+26 2 28
+vertices: 23 58.41 28 0
+26 2 28 20.00
+========================
+check between: 26 24
+CHECK: 28.30
+SDIST: 20.00
+i dedge: 24 - 15.26 pidx: 14 0
+26 2 28
+vertices: 24 15.26 14 0
+26 2 14 15.26
+========================
+check between: 26 25
+CHECK: 60.42
+SDIST: 15.26
+i dedge: 25 - 20.22 pidx: 28 0
+26 2 14
+vertices: 25 20.22 28 0
+26 2 14 15.26
+========================
+check between: 26 29
+CHECK: 7.28
+SDIST: 15.26
+i dedge: 29 - 9.85 pidx: 2 0
+26 2 14
+vertices: 29 7.28 26 0
+26 2 29 7.28
+first changes
+29 26 29 7.28
+verticescidx: 29 7.28 26 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 1] [27, 1] [28, 1] [29, 1] 
+========================
+check between: 29 3
+CHECK: 58.14
+SDIST: inf
+i dedge: 3 - 41.00 pidx: 14 0
+29 26 29
+vertices: 3 41.00 14 0
+29 26 14 41.00
+========================
+check between: 29 4
+CHECK: 67.42
+SDIST: 41.00
+i dedge: 4 - 20.00 pidx: 28 0
+29 26 14
+vertices: 4 20.00 28 0
+29 26 28 20.00
+========================
+check between: 29 5
+CHECK: inf
+SDIST: 20.00
+i dedge: 5 - 44.78 pidx: 11 0
+29 26 28
+vertices: 5 44.78 11 0
+29 26 28 20.00
+========================
+check between: 29 7
+CHECK: 73.98
+SDIST: 20.00
+i dedge: 7 - 22.85 pidx: 1 0
+29 26 28
+vertices: 7 22.85 1 0
+29 26 28 20.00
+========================
+check between: 29 8
+CHECK: 92.36
+SDIST: 20.00
+i dedge: 8 - 33.02 pidx: 11 0
+29 26 28
+vertices: 8 33.02 11 0
+29 26 28 20.00
+========================
+check between: 29 9
+CHECK: 78.09
+SDIST: 20.00
+i dedge: 9 - 49.40 pidx: 28 0
+29 26 28
+vertices: 9 49.40 28 0
+29 26 28 20.00
+========================
+check between: 29 13
+CHECK: 88.14
+SDIST: 20.00
+i dedge: 13 - 23.43 pidx: 6 0
+29 26 28
+vertices: 13 23.43 6 0
+29 26 28 20.00
+========================
+check between: 29 17
+CHECK: inf
+SDIST: 20.00
+i dedge: 17 - 41.77 pidx: 11 0
+29 26 28
+vertices: 17 41.77 11 0
+29 26 28 20.00
+========================
+check between: 29 18
+CHECK: 76.11
+SDIST: 20.00
+i dedge: 18 - 58.14 pidx: 27 0
+29 26 28
+vertices: 18 58.14 27 0
+29 26 28 20.00
+========================
+check between: 29 19
+CHECK: inf
+SDIST: 20.00
+i dedge: 19 - 20.59 pidx: 11 0
+29 26 28
+vertices: 19 20.59 11 0
+29 26 28 20.00
+========================
+check between: 29 21
+CHECK: inf
+SDIST: 20.00
+i dedge: 21 - 26.25 pidx: 11 0
+29 26 28
+vertices: 21 26.25 11 0
+29 26 28 20.00
+========================
+check between: 29 22
+CHECK: inf
+SDIST: 20.00
+i dedge: 22 - 45.34 pidx: 11 0
+29 26 28
+vertices: 22 45.34 11 0
+29 26 28 20.00
+========================
+check between: 29 23
+CHECK: 81.06
+SDIST: 20.00
+i dedge: 23 - 58.41 pidx: 28 0
+29 26 28
+vertices: 23 58.41 28 0
+29 26 28 20.00
+========================
+check between: 29 24
+CHECK: 27.20
+SDIST: 20.00
+i dedge: 24 - 15.26 pidx: 14 0
+29 26 28
+vertices: 24 15.26 14 0
+29 26 14 15.26
+========================
+check between: 29 25
+CHECK: 65.73
+SDIST: 15.26
+i dedge: 25 - 20.22 pidx: 28 0
+29 26 14
+vertices: 25 20.22 28 0
+29 26 14 15.26
+first changes
+14 29 14 15.26
+verticescidx: 14 18.03 27 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 0] [25, 0] [26, 1] [27, 1] [28, 1] [29, 1] 
+========================
+check between: 14 3
+CHECK: 41.00
+SDIST: inf
+i dedge: 3 - 41.00 pidx: 14 0
+14 29 14
+vertices: 3 41.00 14 0
+14 29 3 41.00
+========================
+check between: 14 4
+CHECK: 50.25
+SDIST: 41.00
+i dedge: 4 - 20.00 pidx: 28 0
+14 29 3
+vertices: 4 20.00 28 0
+14 29 28 20.00
+========================
+check between: 14 5
+CHECK: inf
+SDIST: 20.00
+i dedge: 5 - 44.78 pidx: 11 0
+14 29 28
+vertices: 5 44.78 11 0
+14 29 28 20.00
+========================
+check between: 14 7
+CHECK: 67.01
+SDIST: 20.00
+i dedge: 7 - 22.85 pidx: 1 0
+14 29 28
+vertices: 7 22.85 1 0
+14 29 28 20.00
+========================
+check between: 14 8
+CHECK: 83.02
+SDIST: 20.00
+i dedge: 8 - 33.02 pidx: 11 0
+14 29 28
+vertices: 8 33.02 11 0
+14 29 28 20.00
+========================
+check between: 14 9
+CHECK: 59.54
+SDIST: 20.00
+i dedge: 9 - 49.40 pidx: 28 0
+14 29 28
+vertices: 9 49.40 28 0
+14 29 28 20.00
+========================
+check between: 14 13
+CHECK: 84.01
+SDIST: 20.00
+i dedge: 13 - 23.43 pidx: 6 0
+14 29 28
+vertices: 13 23.43 6 0
+14 29 28 20.00
+========================
+check between: 14 17
+CHECK: inf
+SDIST: 20.00
+i dedge: 17 - 41.77 pidx: 11 0
+14 29 28
+vertices: 17 41.77 11 0
+14 29 28 20.00
+========================
+check between: 14 18
+CHECK: 58.69
+SDIST: 20.00
+i dedge: 18 - 58.14 pidx: 27 0
+14 29 28
+vertices: 18 58.14 27 0
+14 29 28 20.00
+========================
+check between: 14 19
+CHECK: inf
+SDIST: 20.00
+i dedge: 19 - 20.59 pidx: 11 0
+14 29 28
+vertices: 19 20.59 11 0
+14 29 28 20.00
+========================
+check between: 14 21
+CHECK: inf
+SDIST: 20.00
+i dedge: 21 - 26.25 pidx: 11 0
+14 29 28
+vertices: 21 26.25 11 0
+14 29 28 20.00
+========================
+check between: 14 22
+CHECK: inf
+SDIST: 20.00
+i dedge: 22 - 45.34 pidx: 11 0
+14 29 28
+vertices: 22 45.34 11 0
+14 29 28 20.00
+========================
+check between: 14 23
+CHECK: 63.03
+SDIST: 20.00
+i dedge: 23 - 58.41 pidx: 28 0
+14 29 28
+vertices: 23 58.41 28 0
+14 29 28 20.00
+========================
+check between: 14 24
+CHECK: 15.26
+SDIST: 20.00
+i dedge: 24 - 15.26 pidx: 14 0
+14 29 28
+vertices: 24 15.26 14 0
+14 29 24 15.26
+========================
+check between: 14 25
+CHECK: 48.27
+SDIST: 15.26
+i dedge: 25 - 20.22 pidx: 28 0
+14 29 24
+vertices: 25 20.22 28 0
+14 29 24 15.26
+first changes
+24 14 24 15.26
+verticescidx: 24 15.26 14 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 1] [25, 0] [26, 1] [27, 1] [28, 1] [29, 1] 
+========================
+check between: 24 3
+CHECK: 32.25
+SDIST: inf
+i dedge: 3 - 41.00 pidx: 14 0
+24 14 24
+vertices: 3 32.25 24 0
+24 14 3 32.25
+========================
+check between: 24 4
+CHECK: 55.23
+SDIST: 32.25
+i dedge: 4 - 20.00 pidx: 28 0
+24 14 3
+vertices: 4 20.00 28 0
+24 14 28 20.00
+========================
+check between: 24 5
+CHECK: inf
+SDIST: 20.00
+i dedge: 5 - 44.78 pidx: 11 0
+24 14 28
+vertices: 5 44.78 11 0
+24 14 28 20.00
+========================
+check between: 24 7
+CHECK: 80.50
+SDIST: 20.00
+i dedge: 7 - 22.85 pidx: 1 0
+24 14 28
+vertices: 7 22.85 1 0
+24 14 28 20.00
+========================
+check between: 24 8
+CHECK: 95.13
+SDIST: 20.00
+i dedge: 8 - 33.02 pidx: 11 0
+24 14 28
+vertices: 8 33.02 11 0
+24 14 28 20.00
+========================
+check between: 24 9
+CHECK: 55.15
+SDIST: 20.00
+i dedge: 9 - 49.40 pidx: 28 0
+24 14 28
+vertices: 9 49.40 28 0
+24 14 28 20.00
+========================
+check between: 24 13
+CHECK: 98.27
+SDIST: 20.00
+i dedge: 13 - 23.43 pidx: 6 0
+24 14 28
+vertices: 13 23.43 6 0
+24 14 28 20.00
+========================
+check between: 24 17
+CHECK: inf
+SDIST: 20.00
+i dedge: 17 - 41.77 pidx: 11 0
+24 14 28
+vertices: 17 41.77 11 0
+24 14 28 20.00
+========================
+check between: 24 18
+CHECK: 50.16
+SDIST: 20.00
+i dedge: 18 - 58.14 pidx: 27 0
+24 14 28
+vertices: 18 50.16 24 0
+24 14 28 20.00
+========================
+check between: 24 19
+CHECK: inf
+SDIST: 20.00
+i dedge: 19 - 20.59 pidx: 11 0
+24 14 28
+vertices: 19 20.59 11 0
+24 14 28 20.00
+========================
+check between: 24 21
+CHECK: inf
+SDIST: 20.00
+i dedge: 21 - 26.25 pidx: 11 0
+24 14 28
+vertices: 21 26.25 11 0
+24 14 28 20.00
+========================
+check between: 24 22
+CHECK: inf
+SDIST: 20.00
+i dedge: 22 - 45.34 pidx: 11 0
+24 14 28
+vertices: 22 45.34 11 0
+24 14 28 20.00
+========================
+check between: 24 23
+CHECK: 56.09
+SDIST: 20.00
+i dedge: 23 - 58.41 pidx: 28 0
+24 14 28
+vertices: 23 56.09 24 0
+24 14 28 20.00
+========================
+check between: 24 25
+CHECK: 52.70
+SDIST: 20.00
+i dedge: 25 - 20.22 pidx: 28 0
+24 14 28
+vertices: 25 20.22 28 0
+24 14 28 20.00
+first changes
+28 24 28 20.00
+verticescidx: 28 11.18 10 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 0] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 1] [25, 0] [26, 1] [27, 1] [28, 1] [29, 1] 
+========================
+check between: 28 3
+CHECK: 48.76
+SDIST: inf
+i dedge: 3 - 32.25 pidx: 24 0
+28 24 28
+vertices: 3 32.25 24 0
+28 24 24 32.25
+========================
+check between: 28 4
+CHECK: 20.00
+SDIST: 32.25
+i dedge: 4 - 20.00 pidx: 28 0
+28 24 24
+vertices: 4 20.00 28 0
+28 24 4 20.00
+========================
+check between: 28 5
+CHECK: 50.33
+SDIST: 20.00
+i dedge: 5 - 44.78 pidx: 11 0
+28 24 4
+vertices: 5 44.78 11 0
+28 24 4 20.00
+========================
+check between: 28 7
+CHECK: 37.59
+SDIST: 20.00
+i dedge: 7 - 22.85 pidx: 1 0
+28 24 4
+vertices: 7 22.85 1 0
+28 24 4 20.00
+========================
+check between: 28 8
+CHECK: 48.17
+SDIST: 20.00
+i dedge: 8 - 33.02 pidx: 11 0
+28 24 4
+vertices: 8 33.02 11 0
+28 24 4 20.00
+========================
+check between: 28 9
+CHECK: 49.40
+SDIST: 20.00
+i dedge: 9 - 49.40 pidx: 28 0
+28 24 4
+vertices: 9 49.40 28 0
+28 24 4 20.00
+========================
+check between: 28 13
+CHECK: 57.45
+SDIST: 20.00
+i dedge: 13 - 23.43 pidx: 6 0
+28 24 4
+vertices: 13 23.43 6 0
+28 24 4 20.00
+========================
+check between: 28 17
+CHECK: 44.42
+SDIST: 20.00
+i dedge: 17 - 41.77 pidx: 11 0
+28 24 4
+vertices: 17 41.77 11 0
+28 24 4 20.00
+========================
+check between: 28 18
+CHECK: 59.41
+SDIST: 20.00
+i dedge: 18 - 50.16 pidx: 24 0
+28 24 4
+vertices: 18 50.16 24 0
+28 24 4 20.00
+========================
+check between: 28 19
+CHECK: 33.73
+SDIST: 20.00
+i dedge: 19 - 20.59 pidx: 11 0
+28 24 4
+vertices: 19 20.59 11 0
+28 24 4 20.00
+========================
+check between: 28 21
+CHECK: 36.24
+SDIST: 20.00
+i dedge: 21 - 26.25 pidx: 11 0
+28 24 4
+vertices: 21 26.25 11 0
+28 24 4 20.00
+========================
+check between: 28 22
+CHECK: 54.64
+SDIST: 20.00
+i dedge: 22 - 45.34 pidx: 11 0
+28 24 4
+vertices: 22 45.34 11 0
+28 24 4 20.00
+========================
+check between: 28 23
+CHECK: 58.41
+SDIST: 20.00
+i dedge: 23 - 56.09 pidx: 24 0
+28 24 4
+vertices: 23 56.09 24 0
+28 24 4 20.00
+========================
+check between: 28 25
+CHECK: 20.22
+SDIST: 20.00
+i dedge: 25 - 20.22 pidx: 28 0
+28 24 4
+vertices: 25 20.22 28 0
+28 24 4 20.00
+first changes
+4 28 4 20.00
+verticescidx: 4 20.00 28 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 1] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 1] [25, 0] [26, 1] [27, 1] [28, 1] [29, 1] 
+========================
+check between: 4 3
+CHECK: 43.10
+SDIST: inf
+i dedge: 3 - 32.25 pidx: 24 0
+4 28 4
+vertices: 3 32.25 24 0
+4 28 24 32.25
+========================
+check between: 4 5
+CHECK: 37.59
+SDIST: 32.25
+i dedge: 5 - 44.78 pidx: 11 0
+4 28 24
+vertices: 5 37.59 4 0
+4 28 24 32.25
+========================
+check between: 4 7
+CHECK: 50.33
+SDIST: 32.25
+i dedge: 7 - 22.85 pidx: 1 0
+4 28 24
+vertices: 7 22.85 1 0
+4 28 1 22.85
+========================
+check between: 4 8
+CHECK: 53.67
+SDIST: 22.85
+i dedge: 8 - 33.02 pidx: 11 0
+4 28 1
+vertices: 8 33.02 11 0
+4 28 1 22.85
+========================
+check between: 4 9
+CHECK: 34.06
+SDIST: 22.85
+i dedge: 9 - 49.40 pidx: 28 0
+4 28 1
+vertices: 9 34.06 4 0
+4 28 1 22.85
+========================
+check between: 4 13
+CHECK: 70.01
+SDIST: 22.85
+i dedge: 13 - 23.43 pidx: 6 0
+4 28 1
+vertices: 13 23.43 6 0
+4 28 1 22.85
+========================
+check between: 4 17
+CHECK: 29.21
+SDIST: 22.85
+i dedge: 17 - 41.77 pidx: 11 0
+4 28 1
+vertices: 17 29.21 4 0
+4 28 1 22.85
+========================
+check between: 4 18
+CHECK: 47.85
+SDIST: 22.85
+i dedge: 18 - 50.16 pidx: 24 0
+4 28 1
+vertices: 18 47.85 4 0
+4 28 1 22.85
+========================
+check between: 4 19
+CHECK: 35.47
+SDIST: 22.85
+i dedge: 19 - 20.59 pidx: 11 0
+4 28 1
+vertices: 19 20.59 11 0
+4 28 11 20.59
+========================
+check between: 4 21
+CHECK: 32.14
+SDIST: 20.59
+i dedge: 21 - 26.25 pidx: 11 0
+4 28 11
+vertices: 21 26.25 11 0
+4 28 11 20.59
+========================
+check between: 4 22
+CHECK: 46.32
+SDIST: 20.59
+i dedge: 22 - 45.34 pidx: 11 0
+4 28 11
+vertices: 22 45.34 11 0
+4 28 11 20.59
+========================
+check between: 4 23
+CHECK: 44.41
+SDIST: 20.59
+i dedge: 23 - 56.09 pidx: 24 0
+4 28 11
+vertices: 23 44.41 4 0
+4 28 11 20.59
+========================
+check between: 4 25
+CHECK: 3.00
+SDIST: 20.59
+i dedge: 25 - 20.22 pidx: 28 0
+4 28 11
+vertices: 25 3.00 4 0
+4 28 25 3.00
+first changes
+25 4 25 3.00
+verticescidx: 25 3.00 4 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 1] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 1] [25, 1] [26, 1] [27, 1] [28, 1] [29, 1] 
+========================
+check between: 25 3
+CHECK: 40.11
+SDIST: inf
+i dedge: 3 - 32.25 pidx: 24 0
+25 4 25
+vertices: 3 32.25 24 0
+25 4 24 32.25
+========================
+check between: 25 5
+CHECK: inf
+SDIST: 32.25
+i dedge: 5 - 37.59 pidx: 4 0
+25 4 24
+vertices: 5 37.59 4 0
+25 4 24 32.25
+========================
+check between: 25 7
+CHECK: 52.35
+SDIST: 32.25
+i dedge: 7 - 22.85 pidx: 1 0
+25 4 24
+vertices: 7 22.85 1 0
+25 4 1 22.85
+========================
+check between: 25 8
+CHECK: 56.36
+SDIST: 22.85
+i dedge: 8 - 33.02 pidx: 11 0
+25 4 1
+vertices: 8 33.02 11 0
+25 4 1 22.85
+========================
+check between: 25 9
+CHECK: 31.83
+SDIST: 22.85
+i dedge: 9 - 34.06 pidx: 4 0
+25 4 1
+vertices: 9 31.83 25 0
+25 4 1 22.85
+========================
+check between: 25 13
+CHECK: 72.14
+SDIST: 22.85
+i dedge: 13 - 23.43 pidx: 6 0
+25 4 1
+vertices: 13 23.43 6 0
+25 4 1 22.85
+========================
+check between: 25 17
+CHECK: inf
+SDIST: 22.85
+i dedge: 17 - 29.21 pidx: 4 0
+25 4 1
+vertices: 17 29.21 4 0
+25 4 1 22.85
+========================
+check between: 25 18
+CHECK: 45.18
+SDIST: 22.85
+i dedge: 18 - 47.85 pidx: 4 0
+25 4 1
+vertices: 18 45.18 25 0
+25 4 1 22.85
+========================
+check between: 25 19
+CHECK: inf
+SDIST: 22.85
+i dedge: 19 - 20.59 pidx: 11 0
+25 4 1
+vertices: 19 20.59 11 0
+25 4 11 20.59
+========================
+check between: 25 21
+CHECK: inf
+SDIST: 20.59
+i dedge: 21 - 26.25 pidx: 11 0
+25 4 11
+vertices: 21 26.25 11 0
+25 4 11 20.59
+========================
+check between: 25 22
+CHECK: inf
+SDIST: 20.59
+i dedge: 22 - 45.34 pidx: 11 0
+25 4 11
+vertices: 22 45.34 11 0
+25 4 11 20.59
+========================
+check between: 25 23
+CHECK: 42.01
+SDIST: 20.59
+i dedge: 23 - 44.41 pidx: 4 0
+25 4 11
+vertices: 23 42.01 25 0
+25 4 11 20.59
+first changes
+11 25 11 20.59
+verticescidx: 11 5.39 10 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 1] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 0] [20, 1] [21, 0] [22, 0] [23, 0] [24, 1] [25, 1] [26, 1] [27, 1] [28, 1] [29, 1] 
+========================
+check between: 11 3
+CHECK: 63.56
+SDIST: inf
+i dedge: 3 - 32.25 pidx: 24 0
+11 25 11
+vertices: 3 32.25 24 0
+11 25 24 32.25
+========================
+check between: 11 5
+CHECK: 44.78
+SDIST: 32.25
+i dedge: 5 - 37.59 pidx: 4 0
+11 25 24
+vertices: 5 37.59 4 0
+11 25 24 32.25
+========================
+check between: 11 7
+CHECK: 23.43
+SDIST: 32.25
+i dedge: 7 - 22.85 pidx: 1 0
+11 25 24
+vertices: 7 22.85 1 0
+11 25 1 22.85
+========================
+check between: 11 8
+CHECK: 33.02
+SDIST: 22.85
+i dedge: 8 - 33.02 pidx: 11 0
+11 25 1
+vertices: 8 33.02 11 0
+11 25 1 22.85
+========================
+check between: 11 9
+CHECK: 60.88
+SDIST: 22.85
+i dedge: 9 - 31.83 pidx: 25 0
+11 25 1
+vertices: 9 31.83 25 0
+11 25 1 22.85
+========================
+check between: 11 13
+CHECK: 43.42
+SDIST: 22.85
+i dedge: 13 - 23.43 pidx: 6 0
+11 25 1
+vertices: 13 23.43 6 0
+11 25 1 22.85
+========================
+check between: 11 17
+CHECK: 41.77
+SDIST: 22.85
+i dedge: 17 - 29.21 pidx: 4 0
+11 25 1
+vertices: 17 29.21 4 0
+11 25 1 22.85
+========================
+check between: 11 18
+CHECK: 72.80
+SDIST: 22.85
+i dedge: 18 - 45.18 pidx: 25 0
+11 25 1
+vertices: 18 45.18 25 0
+11 25 1 22.85
+========================
+check between: 11 19
+CHECK: 20.59
+SDIST: 22.85
+i dedge: 19 - 20.59 pidx: 11 0
+11 25 1
+vertices: 19 20.59 11 0
+11 25 19 20.59
+========================
+check between: 11 21
+CHECK: 26.25
+SDIST: 20.59
+i dedge: 21 - 26.25 pidx: 11 0
+11 25 19
+vertices: 21 26.25 11 0
+11 25 19 20.59
+========================
+check between: 11 22
+CHECK: 45.34
+SDIST: 20.59
+i dedge: 22 - 45.34 pidx: 11 0
+11 25 19
+vertices: 22 45.34 11 0
+11 25 19 20.59
+========================
+check between: 11 23
+CHECK: 70.72
+SDIST: 20.59
+i dedge: 23 - 42.01 pidx: 25 0
+11 25 19
+vertices: 23 42.01 25 0
+11 25 19 20.59
+first changes
+19 11 19 20.59
+verticescidx: 19 20.59 11 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 1] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 1] [20, 1] [21, 0] [22, 0] [23, 0] [24, 1] [25, 1] [26, 1] [27, 1] [28, 1] [29, 1] 
+========================
+check between: 19 3
+CHECK: inf
+SDIST: inf
+i dedge: 3 - 32.25 pidx: 24 0
+19 11 19
+vertices: 3 32.25 24 0
+19 11 24 32.25
+========================
+check between: 19 5
+CHECK: 31.00
+SDIST: 32.25
+i dedge: 5 - 37.59 pidx: 4 0
+19 11 24
+vertices: 5 31.00 19 0
+19 11 5 31.00
+========================
+check between: 19 7
+CHECK: inf
+SDIST: 31.00
+i dedge: 7 - 22.85 pidx: 1 0
+19 11 5
+vertices: 7 22.85 1 0
+19 11 1 22.85
+========================
+check between: 19 8
+CHECK: inf
+SDIST: 22.85
+i dedge: 8 - 33.02 pidx: 11 0
+19 11 1
+vertices: 8 33.02 11 0
+19 11 1 22.85
+========================
+check between: 19 9
+CHECK: inf
+SDIST: 22.85
+i dedge: 9 - 31.83 pidx: 25 0
+19 11 1
+vertices: 9 31.83 25 0
+19 11 1 22.85
+========================
+check between: 19 13
+CHECK: inf
+SDIST: 22.85
+i dedge: 13 - 23.43 pidx: 6 0
+19 11 1
+vertices: 13 23.43 6 0
+19 11 1 22.85
+========================
+check between: 19 17
+CHECK: 32.57
+SDIST: 22.85
+i dedge: 17 - 29.21 pidx: 4 0
+19 11 1
+vertices: 17 29.21 4 0
+19 11 1 22.85
+========================
+check between: 19 18
+CHECK: inf
+SDIST: 22.85
+i dedge: 18 - 45.18 pidx: 25 0
+19 11 1
+vertices: 18 45.18 25 0
+19 11 1 22.85
+========================
+check between: 19 21
+CHECK: 10.05
+SDIST: 22.85
+i dedge: 21 - 26.25 pidx: 11 0
+19 11 1
+vertices: 21 10.05 19 0
+19 11 21 10.05
+========================
+check between: 19 22
+CHECK: 26.83
+SDIST: 10.05
+i dedge: 22 - 45.34 pidx: 11 0
+19 11 21
+vertices: 22 26.83 19 0
+19 11 21 10.05
+========================
+check between: 19 23
+CHECK: inf
+SDIST: 10.05
+i dedge: 23 - 42.01 pidx: 25 0
+19 11 21
+vertices: 23 42.01 25 0
+19 11 21 10.05
+first changes
+21 19 21 10.05
+verticescidx: 21 10.05 19 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 1] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 1] [20, 1] [21, 1] [22, 0] [23, 0] [24, 1] [25, 1] [26, 1] [27, 1] [28, 1] [29, 1] 
+========================
+check between: 21 3
+CHECK: inf
+SDIST: inf
+i dedge: 3 - 32.25 pidx: 24 0
+21 19 21
+vertices: 3 32.25 24 0
+21 19 24 32.25
+========================
+check between: 21 5
+CHECK: 21.02
+SDIST: 32.25
+i dedge: 5 - 31.00 pidx: 19 0
+21 19 24
+vertices: 5 21.02 21 0
+21 19 5 21.02
+========================
+check between: 21 7
+CHECK: inf
+SDIST: 21.02
+i dedge: 7 - 22.85 pidx: 1 0
+21 19 5
+vertices: 7 22.85 1 0
+21 19 5 21.02
+========================
+check between: 21 8
+CHECK: inf
+SDIST: 21.02
+i dedge: 8 - 33.02 pidx: 11 0
+21 19 5
+vertices: 8 33.02 11 0
+21 19 5 21.02
+========================
+check between: 21 9
+CHECK: inf
+SDIST: 21.02
+i dedge: 9 - 31.83 pidx: 25 0
+21 19 5
+vertices: 9 31.83 25 0
+21 19 5 21.02
+========================
+check between: 21 13
+CHECK: inf
+SDIST: 21.02
+i dedge: 13 - 23.43 pidx: 6 0
+21 19 5
+vertices: 13 23.43 6 0
+21 19 5 21.02
+========================
+check between: 21 17
+CHECK: 22.85
+SDIST: 21.02
+i dedge: 17 - 29.21 pidx: 4 0
+21 19 5
+vertices: 17 22.85 21 0
+21 19 5 21.02
+========================
+check between: 21 18
+CHECK: inf
+SDIST: 21.02
+i dedge: 18 - 45.18 pidx: 25 0
+21 19 5
+vertices: 18 45.18 25 0
+21 19 5 21.02
+========================
+check between: 21 22
+CHECK: 19.10
+SDIST: 21.02
+i dedge: 22 - 26.83 pidx: 19 0
+21 19 5
+vertices: 22 19.10 21 0
+21 19 22 19.10
+========================
+check between: 21 23
+CHECK: inf
+SDIST: 19.10
+i dedge: 23 - 42.01 pidx: 25 0
+21 19 22
+vertices: 23 42.01 25 0
+21 19 22 19.10
+first changes
+22 21 22 19.10
+verticescidx: 22 19.10 21 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 1] [5, 0] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 1] [20, 1] [21, 1] [22, 1] [23, 0] [24, 1] [25, 1] [26, 1] [27, 1] [28, 1] [29, 1] 
+========================
+check between: 22 3
+CHECK: inf
+SDIST: inf
+i dedge: 3 - 32.25 pidx: 24 0
+22 21 22
+vertices: 3 32.25 24 0
+22 21 24 32.25
+========================
+check between: 22 5
+CHECK: 13.89
+SDIST: 32.25
+i dedge: 5 - 21.02 pidx: 21 0
+22 21 24
+vertices: 5 13.89 22 0
+22 21 5 13.89
+========================
+check between: 22 7
+CHECK: inf
+SDIST: 13.89
+i dedge: 7 - 22.85 pidx: 1 0
+22 21 5
+vertices: 7 22.85 1 0
+22 21 5 13.89
+========================
+check between: 22 8
+CHECK: inf
+SDIST: 13.89
+i dedge: 8 - 33.02 pidx: 11 0
+22 21 5
+vertices: 8 33.02 11 0
+22 21 5 13.89
+========================
+check between: 22 9
+CHECK: inf
+SDIST: 13.89
+i dedge: 9 - 31.83 pidx: 25 0
+22 21 5
+vertices: 9 31.83 25 0
+22 21 5 13.89
+========================
+check between: 22 13
+CHECK: inf
+SDIST: 13.89
+i dedge: 13 - 23.43 pidx: 6 0
+22 21 5
+vertices: 13 23.43 6 0
+22 21 5 13.89
+========================
+check between: 22 17
+CHECK: 23.09
+SDIST: 13.89
+i dedge: 17 - 22.85 pidx: 21 0
+22 21 5
+vertices: 17 22.85 21 0
+22 21 5 13.89
+========================
+check between: 22 18
+CHECK: inf
+SDIST: 13.89
+i dedge: 18 - 45.18 pidx: 25 0
+22 21 5
+vertices: 18 45.18 25 0
+22 21 5 13.89
+========================
+check between: 22 23
+CHECK: inf
+SDIST: 13.89
+i dedge: 23 - 42.01 pidx: 25 0
+22 21 5
+vertices: 23 42.01 25 0
+22 21 5 13.89
+first changes
+5 22 5 13.89
+verticescidx: 5 13.89 22 1
+[0, 1] [1, 1] [2, 1] [3, 0] [4, 1] [5, 1] [6, 1] [7, 0] [8, 0] [9, 0] [10, 1] [11, 1] [12, 1] [13, 0] [14, 1] [15, 1] [16, 1] [17, 0] [18, 0] [19, 1] [20, 1] [21, 1] [22, 1] [23, 0] [24, 1] [25, 1] [26, 1] [27, 1] [28, 1] [29, 1] 
+========================
+check between: 5 3
+CHECK: inf
+SDIST: inf
+i dedge: 3 - 32.25 pidx: 24 0
+5 22 5
+vertices: 3 32.25 24 0
+5 22 24 32.25
+========================
+check between: 5 7
+CHECK: inf
+SDIST: 32.25
+i dedge: 7 - 22.85 pidx: 1 0
+5 22 24
+vertices: 7 22.85 1 0
+5 22 1 22.85
+========================
+check between: 5 8
+CHECK: inf
+SDIST: 22.85
+i dedge: 8 - 33.02 pidx: 11 0
+5 22 1
+vertices: 8 33.02 11 0
+5 22 1 22.85
+========================
+check between: 5 9
+CHECK: inf
+SDIST: 22.85
+i dedge: 9 - 31.83 pidx: 25 0
+5 22 1
+vertices: 9 31.83 25 0
+5 22 1 22.85
+========================
+check between: 5 13
+CHECK: inf
+SDIST: 22.85
+i dedge: 13 - 23.43 pidx: 6 0
+5 22 1
+vertices: 13 23.43 6 0
+5 22 1 22.85
+========================
+check between: 5 17
+CHECK: 10.00
+SDIST: 22.85
+i dedge: 17 - 22.85 pidx: 21 0
+5 22 1
+vertices: 17 10.00 5 0
+5 22 17 10.00
+========================
+check between: 5 18
+CHECK: inf
+SDIST: 10.00
+i dedge: 18 - 45.18 pidx: 25 0
+5 22 17
+vertices: 18 45.18 25 0
+5 22 17 10.00
+========================
+check between: 5 23
+CHECK: inf
+SDIST: 10.00
+i dedge: 23 - 42.01 pidx: 25 0
+5 22 17
+vertices: 23 42.01 25 0
+5 22 17 10.00
+first changes
+17 5 17 10.00
+500.07
+-1 0
+20 1
+14 2
+24 3
+28 4
+22 5
+1 6
+1 7
+11 8
+25 9
+16 10
+10 11
+15 12
+6 13
+27 14
+0 15
+12 16
+5 17
+25 18
+11 19
+0 20
+19 21
+21 22
+25 23
+14 24
+4 25
+2 26
+12 27
+10 28
+26 29

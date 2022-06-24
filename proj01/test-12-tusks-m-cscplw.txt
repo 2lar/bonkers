@@ -1,0 +1,14 @@
+C
+10
+// ./letter -b tusks -e tusk -s -c -p -l -o W < test-12-tusks-m-cscplw.txt
+//testing the test case in submit
+[mt]usks
+tusk?
+ksum&
+waivers
+waiver
+waive!
+random
+mus
+um&
+m

@@ -1,0 +1,11 @@
+S
+7
+// ./letter -b ahc -e change -q -c -p -l -o W < test-11-ahc-change-qcplw.txt
+// testing insert
+ahc
+ach
+cah
+cha
+chan
+chang
+change

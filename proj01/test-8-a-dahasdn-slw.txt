@@ -1,0 +1,11 @@
+S
+7
+// ./letter -b a -e dahasdn -s -l -o W < test-8-a-dahasdn-slw.txt
+// testing only insert
+a
+as
+has
+hasd
+ahasd
+ahasdn
+dahasdn

@@ -1,0 +1,25 @@
+C
+20
+//testing all morph interpreters
+// ./letter -b Race -e rAcekaRet -q -c -p -l -o W < test-10-Race-rAcekaRet-qcplw.txt
+Race&
+[cA]cecaR
+Race[cCkKpPmM]
+k?ecaR
+Ae!ecaR
+rAcecaR
+random
+RACERcar
+RaceCAR
+//is this the end?
+nope
+aRce
+acRe
+aceR
+caeR
+ceaR
+rAcecaRt
+raceKart
+rAcecaRte
+rAcecaRet
+rAcekaRet

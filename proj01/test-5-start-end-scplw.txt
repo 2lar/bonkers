@@ -1,0 +1,24 @@
+C
+16
+// ./letter -b start -e end -s -c - p -l -o W < test-5-start-end-scplw.txt
+// there will be random backslashes throughout the file dictionary
+// this will produce a solution using all morph modes
+star[tk]
+tarts
+//[th]arp
+ts?art
+stack
+slac
+stant
+sa!ck
+//rando
+kcaps&
+stent
+spe?eck
+//speak
+speak
+[sp]ead
+spen[dt]
+se[an]t
+send
+end

@@ -1,0 +1,11 @@
+C
+5
+// ./letter -b aBroth -e Brotha -q -p < test-4-aBroth-Brotha-qp.txt
+// there should be a solution that changes junkers
+// this will also be only using !
+Brotha!
+//testing random thigns in between
+Broa!th
+thisisinvalid&
+thiswont?meananything
+Ba!roth

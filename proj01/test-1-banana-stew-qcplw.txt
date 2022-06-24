@@ -1,0 +1,13 @@
+S
+8
+// ./letter -b stew -e banana -q -c -p -l -o W < test-1-banana-stew-qcplw.txt
+// this is to test stew to banana from down to up in this list
+// there should be no solution. snanab to stew and banana to banans
+banana
+banans
+snanab
+stanab
+stana
+stawa
+staw
+stew

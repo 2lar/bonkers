@@ -1,0 +1,20 @@
+S
+15
+// ./letter -b chip -e chip -s -c -o W < test-3-chip-chip-scw.txt
+// this is to test chip to chip so yes a solution
+// allowing only change mode.
+chip
+chop
+junk
+shin
+ship
+shop
+shot
+stop
+soot
+zoot
+zoom
+hunk
+bunk
+flunk
+funk

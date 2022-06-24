@@ -1,0 +1,50 @@
+notes
+
+// MAJOR  NOTES: LARGER-SIMPLE GUN TO FLOWER W QUEUE PRODUCED .1SECOND OVERLOAD.
+
+//check these errors and add FINISHED after dot to signal finished.
+● More or less than one --stack/-s or --queue/-q on the command line. FINSHED
+● No --change/-c, --length/-l, or --swap/-p on the command line. FINISHED
+● The --output/-o flag is followed by an invalid string. FINISHED 
+● Either the begin or end word is not specified, or does not exist in the dictionary. FINISHED
+● The  --change/-c and/or --swap/-p flags are specified, but --length/-l is not, and the
+    begin/end words do not match in length (creating an impossible situation). FINISHED
+
+
+
+
+reserve uses the number used in the input files
+but the dictionary created will be larger than the actual number
+can try to check with the data speed there
+
+
+another thing to check for is to work with the '//' in random place
+throughout the file dicitonary, just to make sure that the checker
+for the '//' work outs fine
+
+try a test with random capitalizations throughout the text
+try to make one that works and one completely radnom to see if it works
+
+test one that goes from longest to shortest (all different lengths)
+
+test one that is from empty to something or something to nothing
+
+test with each of the complex dictionary interpreters
+
+test swap only
+
+test [] only
+
+test change
+
+test length insert
+
+test length delete
+
+test with random nonletter characters
+
+test with double words exact same words
+
+test with more than one interpreter in a word
+
+

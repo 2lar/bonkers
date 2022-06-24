@@ -1,0 +1,11 @@
+S
+7
+// ./letter -b banana -e stew -s -c -p -l -o W < test-2-banana-stew-scplw.txt
+// testing banan to stew. Should work and run through whole list
+banana
+banan
+sanan
+stew
+saean
+stean
+stewn

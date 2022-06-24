@@ -1,0 +1,20 @@
+C
+15
+// ./letter -b trap -e nation -s -c -p -l -o W < test-6-trap-nation-scplw.txt
+//will be testing a file dictionary with multiple interpreters
+// should be no solution between trap and nation
+trap
+strap
+st[re]ep
+steel
+laets&
+station
+s[ar]t?iation
+nation
+random
+[vl]emon
+track
+gra?b&
+wreck
+train
+bo?z[oe]&

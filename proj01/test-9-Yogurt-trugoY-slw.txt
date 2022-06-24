@@ -1,0 +1,20 @@
+S
+16
+// ./letter -b Yogurt -e trugoY -s -p -o W < test-9-Yogurt-trugoY-slw.txt
+// test only swap
+Yogurt
+oYgurt
+ogYurt
+oguYrt
+ogurYt
+ogurtY
+gourtY
+guortY
+gurotY
+gurtoY
+gutroY
+gturoY
+tguroY
+tugroY
+turgoY
+trugoY

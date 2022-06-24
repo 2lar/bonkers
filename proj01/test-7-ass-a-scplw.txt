@@ -1,0 +1,15 @@
+C
+9
+// ./letter -b ass -e a -s -c -p -l -o W < test-7-ass-a-scplw.txt
+//this is to really test a single letter in []
+//there will be no solution
+//ass as a swots swot sway say saw swap sap
+as[s]
+a
+swot[s]
+s[w]ay
+saw
+s[wl]ap
+bat
+bawl
+random
